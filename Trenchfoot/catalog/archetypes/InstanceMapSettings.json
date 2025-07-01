@@ -6,6 +6,7 @@
   "player_slots": [
     {
       "attribute_instance_map_settings": {
+        "additional_overrides": [],
         "slot_type": {
           "locked": true,
           "value": "human"
@@ -18,6 +19,7 @@
     },
     {
       "attribute_instance_map_settings": {
+        "additional_overrides": [],
         "slot_type": {
           "locked": false,
           "value": "ai"
