@@ -1,0 +1,21 @@
+{
+  "4AF9A8EE-4FB0-3148-55C9-2EB5992A6D5F": {
+    "facing": 0,
+    "kind": "Vulcan",
+    "player": 1,
+    "position": [
+      39363,
+      -68487
+    ]
+  },
+  "AD5B8C57-4988-15C5-561A-BA848A6AFAC2": {
+    "facing": 0,
+    "kind": "Worker",
+    "player": 1,
+    "position": [
+      -1491,
+      -85741
+    ]
+  },
+  "version": 1
+}

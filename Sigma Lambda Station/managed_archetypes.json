@@ -1,0 +1,54 @@
+﻿{
+  "map": {
+    "_DestructibleBuilding0": {
+      "based_on": "DestructibleBuilding04",
+      "health_bar_visible": true,
+      "id": "_DestructibleBuilding0",
+      "smart_command_targetable": true,
+      "unreal_actor": "BP_Destructible_Building03",
+      "vital_health": {
+        "maximum": 1500.0,
+        "regen": 0.0,
+        "starting": 1000.0
+      }
+    },
+    "_DestructibleBuilding1": {
+      "based_on": "DestructibleBuilding04",
+      "id": "_DestructibleBuilding1",
+      "unreal_actor": "BP_Destructible_Building02"
+    },
+    "_DestructibleBuilding2": {
+      "based_on": "DestructibleBuilding04",
+      "health_bar_visible": true,
+      "id": "_DestructibleBuilding2",
+      "smart_command_targetable": true,
+      "vital_health": {
+        "maximum": 1500.0,
+        "regen": 0.0,
+        "starting": 1000.0
+      }
+    },
+    "_DestructibleBuilding3": {
+      "based_on": "DestructibleBuilding02",
+      "health_bar_visible": true,
+      "id": "_DestructibleBuilding3",
+      "smart_command_targetable": true,
+      "vital_health": {
+        "maximum": 1500.0,
+        "regen": 0.0,
+        "starting": 1000.0
+      }
+    },
+    "_DestructibleBuilding4": {
+      "based_on": "DestructibleBuilding01",
+      "health_bar_visible": true,
+      "id": "_DestructibleBuilding4",
+      "smart_command_targetable": true,
+      "vital_health": {
+        "maximum": 1500.0,
+        "regen": 0.0,
+        "starting": 1000.0
+      }
+    }
+  }
+}

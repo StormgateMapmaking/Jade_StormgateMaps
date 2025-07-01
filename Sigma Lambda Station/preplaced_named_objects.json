@@ -1,0 +1,264 @@
+{
+  "02920540-47BB-F378-4BFA-028DC9EFCDFA": {
+    "facing": 1073741998,
+    "kind": "_DestructibleBuilding4",
+    "player": 0,
+    "position": [
+      -352256,
+      -262144
+    ]
+  },
+  "0B2A6F2F-4EF2-5191-EAD3-9D84F95D2B2D": {
+    "facing": 536870762,
+    "kind": "_DestructibleBuilding0",
+    "player": 0,
+    "position": [
+      -557056,
+      -122880
+    ]
+  },
+  "22F7FFE8-40BC-42B6-5D2C-B5B6AC756F08": {
+    "facing": 0,
+    "kind": "MegaResourceA",
+    "player": 1,
+    "position": [
+      557056,
+      163840
+    ]
+  },
+  "288BEE74-44B1-0B3A-B889-E78BD20BA713": {
+    "facing": 0,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 1,
+    "position": [
+      -573440,
+      147456
+    ]
+  },
+  "2CA93550-48C1-2910-5475-D696B8AF55D3": {
+    "facing": 0,
+    "kind": "MegaResourceA",
+    "player": 1,
+    "position": [
+      -737280,
+      -32768
+    ]
+  },
+  "30CD7A7F-494C-4CB7-A177-81A7D10A2652": {
+    "facing": 0,
+    "kind": "Destructible_Blocked_ResourceB_Generator_2x2",
+    "player": 1,
+    "position": [
+      655360,
+      327680
+    ]
+  },
+  "45EBF57F-4898-9421-2CF1-EBA16E35D7D9": {
+    "facing": 1879048206,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 1,
+    "position": [
+      16384,
+      278528
+    ]
+  },
+  "47CFB8D7-411F-0904-549F-37A1433B75A1": {
+    "facing": 536870762,
+    "kind": "_DestructibleBuilding3",
+    "player": 0,
+    "position": [
+      -557056,
+      122880
+    ]
+  },
+  "49AC0B93-47B4-9311-D9B2-13929538FDF7": {
+    "facing": 0,
+    "kind": "ResourceB_Enriched_Generator_2x2",
+    "player": 1,
+    "position": [
+      16384,
+      -278528
+    ]
+  },
+  "5D17F974-47AD-1DDA-A012-6880411932C3": {
+    "facing": 0,
+    "kind": "locationMarkerPlayerStart",
+    "player": 1,
+    "position": [
+      -475136,
+      540672
+    ]
+  },
+  "5E33B450-4F40-64A9-F8C9-A1BA4CB1FFBD": {
+    "facing": 0,
+    "kind": "ResourceB_Enriched_Generator_2x2",
+    "player": 1,
+    "position": [
+      16384,
+      278528
+    ]
+  },
+  "67B7B9AD-471B-D3F6-850E-85AF505999C4": {
+    "facing": 0,
+    "kind": "Destructible_Blocked_ResourceB_Generator_2x2",
+    "player": 1,
+    "position": [
+      655360,
+      -327680
+    ]
+  },
+  "69F3A7A1-40B7-504E-F793-72AAB0896A5B": {
+    "facing": 1073741882,
+    "kind": "BossCreep",
+    "player": 0,
+    "position": [
+      -446626,
+      3972
+    ]
+  },
+  "6ECA69F3-43A7-31EA-20D2-959AEE6A28D5": {
+    "facing": 0,
+    "kind": "MegaResourceA",
+    "player": 1,
+    "position": [
+      557056,
+      -163840
+    ]
+  },
+  "70F4CE1E-4221-8F76-F52E-0396B344395C": {
+    "facing": 1879048206,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 1,
+    "position": [
+      16384,
+      -278528
+    ]
+  },
+  "770C7912-4CA3-5C8D-6834-C28F6A35C0DA": {
+    "facing": 0,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 1,
+    "position": [
+      -458752,
+      671744
+    ]
+  },
+  "79D806CC-43D9-372C-7C2B-058E0B2F07A0": {
+    "facing": 0,
+    "kind": "MegaResourceA",
+    "player": 1,
+    "position": [
+      409600,
+      638976
+    ]
+  },
+  "7D6A512E-4B29-CDAD-7F62-A2B85D134B1E": {
+    "facing": 0,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 1,
+    "position": [
+      -573440,
+      -147456
+    ]
+  },
+  "9093DFCE-412C-B936-DA39-8EBE126CF03C": {
+    "facing": 0,
+    "kind": "MegaResourceA",
+    "player": 1,
+    "position": [
+      -737280,
+      32768
+    ]
+  },
+  "B6EABAF5-4E31-FF19-BE35-ED9206D14BFA": {
+    "facing": 0,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 1,
+    "position": [
+      147456,
+      425984
+    ]
+  },
+  "BB63076F-40C8-D604-E28E-4A9FDADDD2B6": {
+    "facing": 1073741882,
+    "kind": "AberrantCreep",
+    "player": 0,
+    "position": [
+      -500470,
+      27710
+    ]
+  },
+  "C045C072-4971-7157-7490-93A0C4119380": {
+    "facing": 0,
+    "kind": "_DestructibleBuilding2",
+    "player": 0,
+    "position": [
+      -352256,
+      262144
+    ]
+  },
+  "D3436E4C-4499-1BEF-5CBA-3598D39E45AA": {
+    "facing": 1073741882,
+    "kind": "AberrantCreep",
+    "player": 0,
+    "position": [
+      -500470,
+      -27710
+    ]
+  },
+  "E0C1C0F2-4448-8CE8-405A-82AD688E0866": {
+    "facing": 0,
+    "kind": "MegaResourceA",
+    "player": 1,
+    "position": [
+      -475136,
+      393216
+    ]
+  },
+  "ECA36243-4F8E-3CEF-8784-378E4D686C0A": {
+    "facing": 0,
+    "kind": "locationMarkerPlayerStart",
+    "player": 2,
+    "position": [
+      -475136,
+      -540672
+    ]
+  },
+  "F571A85C-4E12-9F93-D09A-38A6E3D5C1D3": {
+    "facing": 0,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 1,
+    "position": [
+      147456,
+      -425984
+    ]
+  },
+  "F6917B97-4DED-06FA-8A7F-7C8AB78EEBC7": {
+    "facing": 0,
+    "kind": "MegaResourceA",
+    "player": 1,
+    "position": [
+      409600,
+      -638976
+    ]
+  },
+  "FAA3D274-4173-1FCF-525D-6F9C3E327B88": {
+    "facing": 0,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 1,
+    "position": [
+      -458752,
+      -671744
+    ]
+  },
+  "FB980640-41BA-0247-ABFA-DEB21CD1C652": {
+    "facing": 0,
+    "kind": "MegaResourceA",
+    "player": 1,
+    "position": [
+      -475136,
+      -393216
+    ]
+  },
+  "version": 1
+}

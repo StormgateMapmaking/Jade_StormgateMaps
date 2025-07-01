@@ -1,0 +1,16 @@
+{
+  "data_format_version": 0,
+  "description": "",
+  "dimensions": [
+    128,
+    128
+  ],
+  "game_mode": "Melee",
+  "gameplay_level_name": "BasicStartingLevel",
+  "id": "ca2fba9b-4b8c-35e6-a555-c59e96472163",
+  "map_name": "Unititled Map",
+  "map_tags": [],
+  "tile_set_id": "TerrainTileset_SigmaArctic",
+  "version": "1.0.0",
+  "visibility": "Hidden"
+}

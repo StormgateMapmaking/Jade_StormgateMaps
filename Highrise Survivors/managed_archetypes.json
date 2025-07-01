@@ -1,0 +1,41 @@
+﻿{
+  "map": {
+    "_Harbinger0": {
+      "abilityList": [
+        "attackData",
+        "moveData",
+        "stopData",
+        "holdPositionData",
+        "Harbinger_Cargo",
+        "InfernalTeleport",
+        "MorphToHarbingerDeployed",
+        "AbyssalHaste",
+        "AbyssalHeal",
+        "AcidBreath",
+        "Armageddon"
+      ],
+      "based_on": "Harbinger",
+      "id": "_Harbinger0"
+    },
+    "_PitFiend0": {
+      "abilityList": [
+        "attackData",
+        "moveData",
+        "stopData",
+        "holdPositionData",
+        "AberrantHowl",
+        "AbyssalCrushingCharge",
+        "AbyssalHaste",
+        "AbyssalHeal",
+        "AbyssalTrample",
+        "AcidBreath",
+        "AcidPool"
+      ],
+      "based_on": "PitFiend",
+      "behaviors": [],
+      "buffs": [],
+      "cargo_size": "One",
+      "id": "_PitFiend0"
+    }
+  }
+}
