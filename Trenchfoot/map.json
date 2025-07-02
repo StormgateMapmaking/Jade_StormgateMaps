@@ -8,9 +8,9 @@
   "game_mode": "Melee",
   "gameplay_level_name": "BasicStartingLevel",
   "id": "0df74a95-4825-6a56-33da-c78d202ee588",
-  "map_name": "Trenchfoot",
+  "map_name": "Unititled Map",
   "map_tags": [],
-  "tile_set_id": "TerrainTileset_Mayhem",
+  "tile_set_id": "TerrainTileset_TemplarCave",
   "version": "1.0.0",
-  "visibility": "Hidden"
+  "visibility": "Unexplored"
 }
