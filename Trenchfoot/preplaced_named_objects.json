@@ -26,6 +26,15 @@
       557056
     ]
   },
+  "922C1984-4B27-B1B0-1BF5-C5B0DC6BBE67": {
+    "facing": 0,
+    "kind": "BlockedStone",
+    "player": 2,
+    "position": [
+      917504,
+      -1179648
+    ]
+  },
   "B59CC9A5-43B7-EF9A-4DCF-B7AE15C40F0F": {
     "facing": 0,
     "kind": "ResourceB_Generator_2x2",
