@@ -2,7 +2,7 @@
   "based_on": "DefaultMapSettings",
   "description": "Many lost limbs remain preserved in the fetid mud of this warzone.",
   "id": "InstanceMapSettings",
-  "lighting_settings": "DefaultLightingTOD",
+  "lighting_settings": "TrenchfootLighting",
   "player_slots": [
     {
       "attribute_instance_map_settings": {
