@@ -1,0 +1,19 @@
+{
+    "__base_type": "TerrainTileset",
+    "based_on": "TerrainTileset_TemplarCave",
+    "cliff_set_a": "DA_Cliffset_Rand_A",
+    "cliff_set_b": "DA_Cliffset_Rand_B",
+    "display_name": "",
+    "doodad_aggregate_layer": "Moss",
+    "id": "TerrainTileset_Trenchfoot",
+    "layer_1": "TerrainLayer_ForestAutumn_Sand",
+    "layer_2": "TerrainLayer_Deadlands_CaveGround",
+    "layer_3": "TerrainLayer_Deadlands_GravellySand",
+    "layer_4": "TerrainLayer_ForestAutumn_RockyGround",
+    "layer_5": "TerrainLayer_Deadlands_TemplarTiles",
+    "layer_6": "TerrainLayer_Deadlands_TemplarTilesFlat",
+    "layer_7": "TerrainLayer_Deadlands_TemplarTilesLarge",
+    "layer_8": "TerrainLayer_ForestAutumn_Mud",
+    "render_abyss": true,
+    "water_table": "DA_WaterTable_ForestAutumn"
+}
