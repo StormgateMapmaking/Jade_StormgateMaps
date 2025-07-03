@@ -1,56 +1,83 @@
 {
-  "3CB01F80-431E-7D5F-8AFF-FC8FF417A7F9": {
-    "facing": 1073741853,
-    "kind": "HQTier1",
-    "player": 2,
-    "position": [
-      -1048576,
-      -393216
-    ]
-  },
-  "75E8C93A-478E-7419-3E03-019F47E04465": {
-    "facing": 0,
-    "kind": "HQTier1",
-    "player": 2,
-    "position": [
-      1048576,
-      393216
-    ]
-  },
-  "892BEF32-4AEE-B658-5BF3-BBB13BDBE82F": {
-    "facing": 0,
+  "1D671275-4A04-6022-1ABC-14B8429C2358": {
+    "facing": 1917150352,
     "kind": "MegaResourceA",
     "player": 2,
     "position": [
-      1212416,
-      557056
+      229376,
+      -360448
     ]
   },
-  "922C1984-4B27-B1B0-1BF5-C5B0DC6BBE67": {
-    "facing": 0,
-    "kind": "BlockedStone",
+  "459B954E-4A05-4DE5-BFDC-D19E783D3BA0": {
+    "facing": 1743114133,
+    "kind": "MegaResourceA",
     "player": 2,
     "position": [
-      917504,
-      -1179648
+      -229376,
+      360448
     ]
   },
-  "B59CC9A5-43B7-EF9A-4DCF-B7AE15C40F0F": {
-    "facing": 0,
+  "4A88C49A-4A7F-EE49-4F02-9AB22E7C70C6": {
+    "facing": 958329381,
+    "kind": "MegaResourceA",
+    "player": 2,
+    "position": [
+      360448,
+      1277952
+    ]
+  },
+  "4C982DEE-4775-0DC7-B0BC-9A979C2ED018": {
+    "facing": 443069615,
     "kind": "ResourceB_Generator_2x2",
     "player": 2,
     "position": [
-      884736,
-      229376
+      557056,
+      -32768
     ]
   },
-  "BA42F4BF-4E5E-A719-25D7-19962DC9AA47": {
-    "facing": 1073741853,
+  "654B685E-4F2B-885D-A478-798D0801912E": {
+    "facing": 536526833,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 2,
+    "position": [
+      -229376,
+      1343488
+    ]
+  },
+  "892BEF32-4AEE-B658-5BF3-BBB13BDBE82F": {
+    "facing": 1619181838,
     "kind": "MegaResourceA",
     "player": 2,
     "position": [
-      -1212416,
-      -557056
+      557056,
+      -1015808
+    ]
+  },
+  "A5EF20C0-4C4E-E7C7-DD6D-9193253E8042": {
+    "facing": 635423658,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 2,
+    "position": [
+      1409024,
+      163840
+    ]
+  },
+  "AF3C98D4-4D1A-2F5C-4D9F-83AB47BDDF8B": {
+    "facing": 565166928,
+    "kind": "MegaResourceA",
+    "player": 2,
+    "position": [
+      -557056,
+      1015808
+    ]
+  },
+  "B59CC9A5-43B7-EF9A-4DCF-B7AE15C40F0F": {
+    "facing": 1776145354,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 2,
+    "position": [
+      229376,
+      -1343488
     ]
   },
   "C1E93CC3-46CB-C749-EC3F-9193FE071FB8": {
@@ -71,13 +98,67 @@
       -1310720
     ]
   },
-  "E36BB552-441D-4498-5E97-24AFB60BB198": {
-    "facing": 1073741853,
+  "D610AD6E-426C-6F84-8D21-A29704AF4D08": {
+    "facing": 36144190,
     "kind": "ResourceB_Generator_2x2",
     "player": 2,
     "position": [
-      -884736,
-      -229376
+      688128,
+      1605632
+    ]
+  },
+  "E65BDCB5-4421-1EDF-8A8B-B585A292294A": {
+    "facing": 1726139851,
+    "kind": "MegaResourceA",
+    "player": 2,
+    "position": [
+      -360448,
+      -1277952
+    ]
+  },
+  "E6FCC897-4468-82BE-2902-20A1018C1116": {
+    "facing": 1764872774,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 2,
+    "position": [
+      -1409024,
+      -163840
+    ]
+  },
+  "F12CF34B-4536-6A72-DCFC-43B7F3F53127": {
+    "facing": 835937138,
+    "kind": "MegaResourceA",
+    "player": 2,
+    "position": [
+      -1081344,
+      163840
+    ]
+  },
+  "F8A94AB8-4FB3-2DAD-07C0-82860E47BA83": {
+    "facing": 707875948,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 2,
+    "position": [
+      -688128,
+      -1605632
+    ]
+  },
+  "FE190802-4A5D-8E11-BCCF-109B7D7E25F0": {
+    "facing": 1942448015,
+    "kind": "MegaResourceA",
+    "player": 2,
+    "position": [
+      1081344,
+      -163840
+    ]
+  },
+  "FFB083DE-4308-58CB-2852-E5B0729C8A58": {
+    "facing": 1622131018,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 2,
+    "position": [
+      -557056,
+      32768
     ]
   },
   "version": 1
