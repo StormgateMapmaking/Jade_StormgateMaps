@@ -12,7 +12,7 @@
     "layer_4": "TerrainLayer_ForestAutumn_RockyGround",
     "layer_5": "TerrainLayer_Trenchfoot_ConcreteBroken",
     "layer_6": "TerrainLayer_Trenchfoot_Concrete",
-    "layer_7": "TerrainLayer_UrbanRuins_DeadGrass",
+    "layer_7": "TerrainLayer_Trenchfoot_ConcreteTiles",
     "layer_8": "TerrainLayer_ForestAutumn_Mud",
     "render_abyss": true,
     "water_table": "DA_WaterTable_ForestAutumn"
