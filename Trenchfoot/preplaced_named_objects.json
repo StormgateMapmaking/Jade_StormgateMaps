@@ -1,4 +1,13 @@
 {
+  "14A75591-4F63-23C7-4924-128533C3E805": {
+    "facing": 1879048220,
+    "kind": "MegaResourceA",
+    "player": 2,
+    "position": [
+      1048576,
+      -1146880
+    ]
+  },
   "1D671275-4A04-6022-1ABC-14B8429C2358": {
     "facing": 1879048206,
     "kind": "MegaResourceA",
@@ -42,6 +51,24 @@
     "position": [
       -229376,
       1343488
+    ]
+  },
+  "85C9F7D2-45B5-BFF3-1975-EB8BCCF8F795": {
+    "facing": 805306366,
+    "kind": "MegaResourceA",
+    "player": 2,
+    "position": [
+      -1048576,
+      1146880
+    ]
+  },
+  "88A64AF3-449B-30E0-1986-58BACA775CE3": {
+    "facing": 167449595,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 0,
+    "position": [
+      884736,
+      -1310720
     ]
   },
   "892BEF32-4AEE-B658-5BF3-BBB13BDBE82F": {
@@ -105,6 +132,15 @@
     "position": [
       688128,
       1605632
+    ]
+  },
+  "DB58E2D8-45FB-2D65-7476-468B16F04301": {
+    "facing": 1232933657,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 0,
+    "position": [
+      -884736,
+      1310720
     ]
   },
   "E65BDCB5-4421-1EDF-8A8B-B585A292294A": {
