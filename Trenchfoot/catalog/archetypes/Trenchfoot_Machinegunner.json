@@ -145,7 +145,7 @@
     "global_energy": "emptyRef",
     "global_resource_overrides": [],
     "height": 0.0,
-    "id": "Trenchfoot_Gunner",
+    "id": "Trenchfoot_Machinegunner",
     "inner_radius": 0.8,
     "minimap_icon": "",
     "minimap_icon_custom_color": "FFFFFFFF",
