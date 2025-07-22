@@ -23,6 +23,18 @@
       -1884160
     ]
   },
+  "008D9E50-4285-4308-3B60-58948C7B7A4D": {
+    "data": {
+      "seed": 15511
+    },
+    "facing": 926871142,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      557056,
+      540672
+    ]
+  },
   "00BE170C-4249-2B39-7498-68BE4C3D6FEC": {
     "data": {
       "seed": 6192
@@ -83,6 +95,18 @@
       868352
     ]
   },
+  "01BC33EC-4538-E79E-DBE5-5B87922693CA": {
+    "data": {
+      "seed": 7315
+    },
+    "facing": 1194135194,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      983040,
+      1130496
+    ]
+  },
   "01CAD7EB-4A60-39D6-ED4F-538EA559B4B4": {
     "data": {
       "seed": 24341
@@ -131,6 +155,18 @@
       -1867776
     ]
   },
+  "03162436-4261-B8EE-0BEB-039444177C24": {
+    "data": {
+      "seed": 12560
+    },
+    "facing": 795270825,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      1196032,
+      1130496
+    ]
+  },
   "0332035D-4082-A837-1910-03BB5E894BBC": {
     "data": {
       "seed": 5737
@@ -165,6 +201,18 @@
     "position": [
       -2031616,
       294912
+    ]
+  },
+  "0374E67B-418B-C64C-D001-D38FBA581943": {
+    "data": {
+      "seed": 6227
+    },
+    "facing": 938373093,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -573440,
+      -557056
     ]
   },
   "03B4BB5C-473B-14EA-8F71-2880E3B17E79": {
@@ -215,6 +263,18 @@
       786432
     ]
   },
+  "03F0C165-4103-AB05-9527-B1BE467F5B09": {
+    "data": {
+      "seed": 18880
+    },
+    "facing": 1806227305,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -770048,
+      -737280
+    ]
+  },
   "04125460-4C27-01B8-3BD2-39B4F4A1A366": {
     "data": {
       "seed": 14474
@@ -225,6 +285,30 @@
     "position": [
       1802240,
       -573440
+    ]
+  },
+  "041F5266-4584-36B3-2AED-5AA16A94151F": {
+    "data": {
+      "seed": 30030
+    },
+    "facing": 183801338,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      475136,
+      475136
+    ]
+  },
+  "0444179C-4CA8-AB6C-06C3-E98503533A02": {
+    "data": {
+      "seed": 21736
+    },
+    "facing": 664653613,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      573440,
+      589824
     ]
   },
   "0464BC94-4CEB-7F5E-CF8F-249F36DC2308": {
@@ -273,6 +357,42 @@
     "position": [
       589824,
       -1753088
+    ]
+  },
+  "0584806A-43B0-0386-4744-EDB08A35842A": {
+    "data": {
+      "seed": 7947
+    },
+    "facing": 643681454,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      1179648,
+      1064960
+    ]
+  },
+  "05DAC46B-427E-51F4-87F7-20897150D515": {
+    "data": {
+      "seed": 6036
+    },
+    "facing": 1415030996,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -1212416,
+      -1114112
+    ]
+  },
+  "05DD953D-4602-2C57-1645-69893A1B2381": {
+    "data": {
+      "seed": 18614
+    },
+    "facing": 2094987713,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -180224,
+      -98304
     ]
   },
   "060DDF5F-401B-9533-16F5-E4A561CC64A6": {
@@ -381,6 +501,18 @@
     "position": [
       1458176,
       -884736
+    ]
+  },
+  "0804B255-4CF3-2078-36AE-E6AC52D9948A": {
+    "data": {
+      "seed": 13251
+    },
+    "facing": 968553309,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      245760,
+      98304
     ]
   },
   "081B3F19-460D-4500-25D5-548E8B5829FE": {
@@ -659,6 +791,18 @@
       -294912
     ]
   },
+  "0C2B0432-4BF4-1B73-BED3-2D9FCE2A26BD": {
+    "data": {
+      "seed": 19211
+    },
+    "facing": 419246580,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -1245184,
+      -1097728
+    ]
+  },
   "0CA694FE-44F1-9E8D-335A-308C30F827BA": {
     "data": {
       "seed": 17035
@@ -717,6 +861,18 @@
     "position": [
       -327680,
       2031616
+    ]
+  },
+  "0D952915-482C-54AD-525C-4F8467884D00": {
+    "data": {
+      "seed": 29679
+    },
+    "facing": 485374450,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -1015808,
+      -1130496
     ]
   },
   "0DA5F517-41C6-F95A-F6D2-5A8A33488CAC": {
@@ -801,6 +957,18 @@
     "position": [
       -786432,
       278528
+    ]
+  },
+  "0EF7FDDA-4662-F08B-86DE-E5B8C57DC498": {
+    "data": {
+      "seed": 6529
+    },
+    "facing": 245570937,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -491520,
+      -458752
     ]
   },
   "0F766A8F-414D-B6F6-B82D-18A8B0EE31A5": {
@@ -911,6 +1079,18 @@
       1671168
     ]
   },
+  "10E7E4C3-4059-9F20-826F-299834C1FC59": {
+    "data": {
+      "seed": 28897
+    },
+    "facing": 119705148,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      327680,
+      458752
+    ]
+  },
   "11040A61-4932-2637-2DCC-F095A2968CAA": {
     "data": {
       "seed": 5702
@@ -933,6 +1113,18 @@
     "position": [
       -1376256,
       1032192
+    ]
+  },
+  "11881FD6-4624-FC31-541E-F48C9A1661B4": {
+    "data": {
+      "seed": 22003
+    },
+    "facing": 418329076,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -1015808,
+      -1081344
     ]
   },
   "11B9ED83-4E26-AF6D-13C1-07AA7D35ED61": {
@@ -1007,6 +1199,18 @@
       -786432
     ]
   },
+  "12D5F9AF-4DCF-4402-83FD-039AA7A06514": {
+    "data": {
+      "seed": 26684
+    },
+    "facing": 1661617677,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      557056,
+      557056
+    ]
+  },
   "13559F44-43B3-FDDA-A57E-DE8D3290D986": {
     "data": {
       "seed": 31039
@@ -1017,6 +1221,30 @@
     "position": [
       1490944,
       -901120
+    ]
+  },
+  "1356E315-4F10-13F8-3A8A-0D8C772B9BB0": {
+    "data": {
+      "seed": 10320
+    },
+    "facing": 2000055940,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      950272,
+      1081344
+    ]
+  },
+  "1393EE20-4D30-FCE7-BCA5-ABADF4B592C4": {
+    "data": {
+      "seed": 423
+    },
+    "facing": 461518579,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -262144,
+      -376832
     ]
   },
   "139B85B7-4469-113D-0299-C58207AE83DD": {
@@ -1104,7 +1332,7 @@
     ]
   },
   "14A75591-4F63-23C7-4924-128533C3E805": {
-    "facing": 1879048220,
+    "facing": 0,
     "kind": "MegaResourceA",
     "player": 2,
     "position": [
@@ -1122,6 +1350,18 @@
     "position": [
       -1261568,
       442368
+    ]
+  },
+  "14F0484A-49CF-6D1C-9959-5F9AD7AF02A5": {
+    "data": {
+      "seed": 20795
+    },
+    "facing": 166335483,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -950272,
+      -1064960
     ]
   },
   "15384C19-48F2-1D6A-F328-7680248A0BFC": {
@@ -1220,6 +1460,18 @@
       1720320
     ]
   },
+  "17BC739B-47DA-7B1C-9AB5-C3B16926398F": {
+    "data": {
+      "seed": 20278
+    },
+    "facing": 1083605341,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -557056,
+      -524288
+    ]
+  },
   "17C5A029-43AA-009E-F6A1-5A83444B16BC": {
     "data": {
       "seed": 24273
@@ -1268,6 +1520,18 @@
       999424
     ]
   },
+  "18584A74-4596-FA69-F8C6-3BBC2397096B": {
+    "data": {
+      "seed": 5011
+    },
+    "facing": 1469984530,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      1048576,
+      1081344
+    ]
+  },
   "186BEF9C-4A0F-4AFC-FBFB-8AB3BFA54520": {
     "data": {
       "seed": 29363
@@ -1280,6 +1544,18 @@
       819200
     ]
   },
+  "1876C14A-48C5-D97E-52F0-F790239ADBAE": {
+    "data": {
+      "seed": 11346
+    },
+    "facing": 1369252629,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      950272,
+      1064960
+    ]
+  },
   "18A9512A-4A81-52A9-159C-DFBACC32F139": {
     "data": {
       "seed": 8077
@@ -1289,6 +1565,18 @@
     "player": 0,
     "position": [
       -1884160,
+      507904
+    ]
+  },
+  "18BBDCF3-4B71-0854-ABC5-84A45A23980B": {
+    "data": {
+      "seed": 2070
+    },
+    "facing": 1095107229,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      491520,
       507904
     ]
   },
@@ -1328,6 +1616,18 @@
       -1605632
     ]
   },
+  "19281514-465F-472D-275B-4AB00302A5D0": {
+    "data": {
+      "seed": 16584
+    },
+    "facing": 224664313,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -524288,
+      -507904
+    ]
+  },
   "1949BF0B-418C-7C3E-6F9B-CCACC2CEF4B9": {
     "data": {
       "seed": 17974
@@ -1350,6 +1650,30 @@
     "position": [
       -360448,
       2048000
+    ]
+  },
+  "196542A1-4219-5320-75F9-4BA6AC145FA6": {
+    "data": {
+      "seed": 11222
+    },
+    "facing": 214473082,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      802816,
+      655360
+    ]
+  },
+  "196B5E91-4D4A-1524-D7C9-A698A0D681FE": {
+    "data": {
+      "seed": 23784
+    },
+    "facing": 889874919,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -147456,
+      -147456
     ]
   },
   "1989D2D5-45EC-0113-EF15-6FB1EB66FFC0": {
@@ -1436,6 +1760,18 @@
       1032192
     ]
   },
+  "1A90B9CA-4F7B-15FF-0CF7-3591D30D0A74": {
+    "data": {
+      "seed": 122
+    },
+    "facing": 1274648600,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -802816,
+      -671744
+    ]
+  },
   "1A930332-4F93-0E59-5358-429537CEF7EE": {
     "data": {
       "seed": 13327
@@ -1494,6 +1830,30 @@
     "position": [
       -2097152,
       294912
+    ]
+  },
+  "1B4BD69B-41FD-0E5A-83A1-D18E7813FCA6": {
+    "data": {
+      "seed": 18020
+    },
+    "facing": 1167657755,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      802816,
+      704512
+    ]
+  },
+  "1B4FBEA0-4AFE-6719-BC0B-FCBE7ED4609F": {
+    "data": {
+      "seed": 9149
+    },
+    "facing": 768236394,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -1032192,
+      -999424
     ]
   },
   "1B840F45-4E58-868A-CDEB-DFB29E02B62F": {
@@ -1580,6 +1940,18 @@
       -458752
     ]
   },
+  "1C68151C-457E-3098-A85F-34AB424C9C1E": {
+    "data": {
+      "seed": 575
+    },
+    "facing": 1497969298,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      196608,
+      114688
+    ]
+  },
   "1C7C35CF-4B8A-9A71-EE22-F5BEFAFA9AD3": {
     "data": {
       "seed": 4077
@@ -1616,13 +1988,37 @@
       -1556480
     ]
   },
+  "1D35E1A0-4B27-D05B-3C1E-60B5D9079602": {
+    "data": {
+      "seed": 18020
+    },
+    "facing": 93915901,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -819200,
+      -671744
+    ]
+  },
   "1D671275-4A04-6022-1ABC-14B8429C2358": {
-    "facing": 1879048206,
+    "facing": 0,
     "kind": "MegaResourceA",
     "player": 2,
     "position": [
       229376,
       -360448
+    ]
+  },
+  "1DA166DE-4C54-F297-25C8-1B890C3B09E0": {
+    "data": {
+      "seed": 20576
+    },
+    "facing": 263430008,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      1212416,
+      1114112
     ]
   },
   "1DA88638-465C-6621-2F98-EEB74ED3EA36": {
@@ -1659,6 +2055,18 @@
     "position": [
       -1359872,
       1032192
+    ]
+  },
+  "1DE05124-453D-0244-ECC5-F29DD4EFD953": {
+    "data": {
+      "seed": 21091
+    },
+    "facing": 1373381525,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      294912,
+      442368
     ]
   },
   "1E3A037D-4190-3B24-D7F6-C2A55015E3EB": {
@@ -1757,6 +2165,30 @@
       2048000
     ]
   },
+  "1F527CF7-477A-C5F3-B1FD-408DDD67D6B2": {
+    "data": {
+      "seed": 4479
+    },
+    "facing": 931327718,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      180224,
+      98304
+    ]
+  },
+  "20126B40-4DD2-2DBE-D0EA-EDA000528973": {
+    "data": {
+      "seed": 969
+    },
+    "facing": 421835316,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      1015808,
+      1081344
+    ]
+  },
   "2053930B-4487-8511-1869-27903C6431DC": {
     "data": {
       "seed": 2822
@@ -1827,6 +2259,18 @@
     "position": [
       -1277952,
       1130496
+    ]
+  },
+  "20DA626A-46F4-5FE2-257D-1CAB324980D4": {
+    "data": {
+      "seed": 14258
+    },
+    "facing": 1364566741,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -606208,
+      -606208
     ]
   },
   "211E883C-4D4B-A605-140F-5CBF826C009D": {
@@ -2021,6 +2465,18 @@
       1605632
     ]
   },
+  "2302E9AF-4D57-ABD5-E63D-1995E223BB5E": {
+    "data": {
+      "seed": 28348
+    },
+    "facing": 1724042635,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -770048,
+      -770048
+    ]
+  },
   "231C67D9-4DC3-B0F9-AF5E-D1A0E1118022": {
     "data": {
       "seed": 13327
@@ -2045,6 +2501,18 @@
       720896
     ]
   },
+  "23333040-4355-5E26-5F84-1FA4E3053CFB": {
+    "data": {
+      "seed": 8307
+    },
+    "facing": 632245102,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -442368,
+      -491520
+    ]
+  },
   "235A9A27-4BDF-937F-8A66-928724A97078": {
     "data": {
       "seed": 22699
@@ -2055,6 +2523,30 @@
     "position": [
       -868352,
       1556480
+    ]
+  },
+  "23614A80-4A1D-210A-E4F1-F29407FBF528": {
+    "data": {
+      "seed": 4479
+    },
+    "facing": 2005069571,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -196608,
+      -81920
+    ]
+  },
+  "236CE1DF-4FBE-2014-7085-9D8BAB8F1FF5": {
+    "data": {
+      "seed": 25567
+    },
+    "facing": 1400907540,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      1196032,
+      1048576
     ]
   },
   "23845A0E-47FE-A6F4-6F6D-F6B22648DC0A": {
@@ -2081,6 +2573,30 @@
       -1867776
     ]
   },
+  "238BCB5D-457D-5918-AB5A-04B83111EC53": {
+    "data": {
+      "seed": 22914
+    },
+    "facing": 1568324368,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -1015808,
+      -1015808
+    ]
+  },
+  "238C3EBE-424A-172F-C585-BF8BC6DCA371": {
+    "data": {
+      "seed": 20967
+    },
+    "facing": 1790236009,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -475136,
+      -475136
+    ]
+  },
   "23A03EFC-4604-8BC7-D076-6FB1E7FC5C2B": {
     "data": {
       "seed": 28616
@@ -2105,6 +2621,18 @@
       1622016
     ]
   },
+  "23F156D6-42D6-AC1B-BA35-7FA04838C0AC": {
+    "data": {
+      "seed": 120
+    },
+    "facing": 158405371,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -311296,
+      -360448
+    ]
+  },
   "243D2287-46EB-C0D1-7585-74A066E66A08": {
     "data": {
       "seed": 6217
@@ -2115,6 +2643,30 @@
     "position": [
       524288,
       -1867776
+    ]
+  },
+  "249DC137-491E-F17E-C22F-F4B9518F1B7E": {
+    "data": {
+      "seed": 6006
+    },
+    "facing": 992966244,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -983040,
+      -1015808
+    ]
+  },
+  "24A43390-4AE8-7B07-518E-7D9F125C6BE8": {
+    "data": {
+      "seed": 21588
+    },
+    "facing": 786816426,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      786432,
+      688128
     ]
   },
   "24ABDF41-4C6E-F77B-6592-5EB4861AF381": {
@@ -2189,6 +2741,30 @@
       753664
     ]
   },
+  "258E36DF-4AFF-3D8E-2B1B-9FAF94F8D6DE": {
+    "data": {
+      "seed": 26238
+    },
+    "facing": 534364081,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      180224,
+      98304
+    ]
+  },
+  "25900349-4A8F-EB9A-234F-5FAB4D9971C2": {
+    "data": {
+      "seed": 29606
+    },
+    "facing": 1413720212,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -1015808,
+      -1032192
+    ]
+  },
   "259FB0A5-4EC9-DD37-E453-4FA907A111DE": {
     "data": {
       "seed": 28394
@@ -2211,6 +2787,18 @@
     "position": [
       -802816,
       1589248
+    ]
+  },
+  "25C45371-48FA-EFA0-0D46-848C989E3ED3": {
+    "data": {
+      "seed": 9149
+    },
+    "facing": 1841978248,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      1015808,
+      1015808
     ]
   },
   "25C60358-45AA-6D50-CF79-28B9B5A27FC5": {
@@ -2259,6 +2847,18 @@
     "position": [
       -229376,
       -983040
+    ]
+  },
+  "26607647-47C8-6E05-9581-42AB95E23691": {
+    "data": {
+      "seed": 12432
+    },
+    "facing": 10879359,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -851968,
+      -737280
     ]
   },
   "26D9B76B-4FD6-0B56-34DD-9EB170D02632": {
@@ -2321,6 +2921,18 @@
       1572864
     ]
   },
+  "277346F7-4F0C-A906-9429-2390FE69F307": {
+    "data": {
+      "seed": 4479
+    },
+    "facing": 931327718,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      262144,
+      393216
+    ]
+  },
   "27B6BB4F-4381-DDAC-F7C7-36B6CD7C597B": {
     "data": {
       "seed": 6132
@@ -2331,6 +2943,18 @@
     "position": [
       1720320,
       -638976
+    ]
+  },
+  "27E5C184-4E41-4CE5-66FF-F58179C957C3": {
+    "data": {
+      "seed": 22003
+    },
+    "facing": 1492070930,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      1032192,
+      1048576
     ]
   },
   "27F65677-4AAE-457E-3F69-DA973D6E4666": {
@@ -2391,6 +3015,18 @@
     "position": [
       1654784,
       -688128
+    ]
+  },
+  "292BD783-4E31-DB7E-FA2D-F9BA0E8224E6": {
+    "data": {
+      "seed": 3170
+    },
+    "facing": 1726074315,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -327680,
+      -393216
     ]
   },
   "29405664-4F80-E644-3BBC-43A3CEBCDB63": {
@@ -2477,6 +3113,18 @@
       753664
     ]
   },
+  "2AB2652D-449D-9937-E457-BCB4EC683066": {
+    "data": {
+      "seed": 13440
+    },
+    "facing": 1025243675,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      966656,
+      1064960
+    ]
+  },
   "2AF1F427-4E6D-F436-0D68-259781BCB8BF": {
     "data": {
       "seed": 6320
@@ -2499,6 +3147,18 @@
     "position": [
       1622016,
       -770048
+    ]
+  },
+  "2B4A604B-4358-4F88-0C83-D88142FB5FBC": {
+    "data": {
+      "seed": 15366
+    },
+    "facing": 1787581706,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      1032192,
+      1114112
     ]
   },
   "2B82265D-499C-63E6-8CD3-E1A6C88C76C3": {
@@ -2525,6 +3185,30 @@
       -1654784
     ]
   },
+  "2B8A2F50-4234-6E21-E818-18BEFE888CF1": {
+    "data": {
+      "seed": 21091
+    },
+    "facing": 299639671,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -212992,
+      -98304
+    ]
+  },
+  "2BBD1496-41EB-A0C6-A0C0-99A96F8AD450": {
+    "data": {
+      "seed": 32537
+    },
+    "facing": 1455893907,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      589824,
+      540672
+    ]
+  },
   "2BF5A0A5-45DF-515B-39C7-9196EDB3B53D": {
     "data": {
       "seed": 18123
@@ -2535,6 +3219,18 @@
     "position": [
       -851968,
       1523712
+    ]
+  },
+  "2C2B8C09-4251-5A05-BF65-FA9E03AC24D1": {
+    "data": {
+      "seed": 19307
+    },
+    "facing": 1812813833,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      589824,
+      622592
     ]
   },
   "2C3F8FB8-44C0-D484-5855-6792F2B3C2AD": {
@@ -2621,6 +3317,18 @@
       -1703936
     ]
   },
+  "2D432E35-437F-4390-4E98-9999D0FDFC47": {
+    "data": {
+      "seed": 27240
+    },
+    "facing": 1300896535,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      212992,
+      65536
+    ]
+  },
   "2D72F492-4C0B-D574-6CC0-73999F62AA33": {
     "data": {
       "seed": 23554
@@ -2693,6 +3401,18 @@
       1114112
     ]
   },
+  "2E930563-4432-6648-D567-49807CFAC3D3": {
+    "data": {
+      "seed": 4595
+    },
+    "facing": 266772408,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      1196032,
+      1081344
+    ]
+  },
   "2EE8CEB8-465E-8617-DDEC-988621FC9657": {
     "data": {
       "seed": 13847
@@ -2703,6 +3423,18 @@
     "position": [
       819200,
       -1572864
+    ]
+  },
+  "2F0F62E7-4ED6-CDEB-B274-96AE55779F67": {
+    "data": {
+      "seed": 4992
+    },
+    "facing": 925101606,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      475136,
+      507904
     ]
   },
   "2F0FC12E-4700-5D25-53BC-9A95373A4F04": {
@@ -2727,6 +3459,18 @@
     "position": [
       1720320,
       -606208
+    ]
+  },
+  "2F9296C6-4775-5654-1355-02815E4CD9F0": {
+    "data": {
+      "seed": 25603
+    },
+    "facing": 1575730127,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -294912,
+      -360448
     ]
   },
   "2FAD0F7A-42E6-EFC3-2DED-C5B5155AC26E": {
@@ -2825,6 +3569,18 @@
       1064960
     ]
   },
+  "3110FC3E-4EE0-F784-9CFC-1DB1A3D6F3C2": {
+    "data": {
+      "seed": 30630
+    },
+    "facing": 740481067,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      786432,
+      720896
+    ]
+  },
   "31239436-463E-9579-CE21-50B0B178A307": {
     "data": {
       "seed": 25424
@@ -2849,6 +3605,18 @@
       999424
     ]
   },
+  "313D5D51-4E6E-197E-73E1-A58489C7E751": {
+    "data": {
+      "seed": 10151
+    },
+    "facing": 461092595,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      753664,
+      720896
+    ]
+  },
   "315E87E4-4DC8-726B-288A-028470DC5415": {
     "data": {
       "seed": 23674
@@ -2859,6 +3627,18 @@
     "position": [
       -770048,
       1572864
+    ]
+  },
+  "3166311B-4624-C88F-D127-E8BC551C1F8A": {
+    "data": {
+      "seed": 10151
+    },
+    "facing": 1534834449,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -737280,
+      -753664
     ]
   },
   "31B079BF-4914-2E42-FDE1-95B1ED6CCC00": {
@@ -2897,6 +3677,30 @@
       1703936
     ]
   },
+  "32291AA6-41D1-7D21-90A6-3A87C6220A0A": {
+    "data": {
+      "seed": 29591
+    },
+    "facing": 377924853,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      802816,
+      671744
+    ]
+  },
+  "32400D73-4AE9-B70B-F893-809A861C5396": {
+    "data": {
+      "seed": 1526
+    },
+    "facing": 679399661,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      1015808,
+      1032192
+    ]
+  },
   "3257E71E-44C6-1055-060C-4D9F03BF3569": {
     "data": {
       "seed": 11116
@@ -2907,6 +3711,18 @@
     "position": [
       -606208,
       1753088
+    ]
+  },
+  "327D8191-4F4E-6906-7C52-5E9C3DEEC801": {
+    "data": {
+      "seed": 21
+    },
+    "facing": 1325407766,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      770048,
+      770048
     ]
   },
   "327EBD6D-40DC-5625-221F-D7952115119D": {
@@ -2967,6 +3783,18 @@
     "position": [
       344064,
       770048
+    ]
+  },
+  "334344A5-47FA-2476-3ECE-D4AF6E326178": {
+    "data": {
+      "seed": 15366
+    },
+    "facing": 713839852,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -1048576,
+      -1064960
     ]
   },
   "33670FE5-4D5A-3132-55CC-E29BDAAC78BF": {
@@ -3053,6 +3881,18 @@
       -2048000
     ]
   },
+  "3463478B-4A42-AD41-DC38-3E88C4808F13": {
+    "data": {
+      "seed": 6006
+    },
+    "facing": 2066708098,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      1032192,
+      999424
+    ]
+  },
   "34AE81F7-4063-E224-7891-FCBCEF1127AF": {
     "data": {
       "seed": 24341
@@ -3089,6 +3929,18 @@
       -1064960
     ]
   },
+  "35365C13-4722-A7E2-BD30-329933D9951C": {
+    "data": {
+      "seed": 25603
+    },
+    "facing": 501988274,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      311296,
+      344064
+    ]
+  },
   "3551FACA-4A76-3B8D-74FB-FEAFA417E2DB": {
     "data": {
       "seed": 26209
@@ -3111,6 +3963,18 @@
     "position": [
       1327104,
       -1015808
+    ]
+  },
+  "3565A951-4E23-D38B-0840-C0A27AE2479D": {
+    "data": {
+      "seed": 13857
+    },
+    "facing": 1197084314,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      720896,
+      753664
     ]
   },
   "35693716-499E-4EE2-DE93-5791AA322B58": {
@@ -3219,6 +4083,18 @@
     "position": [
       -81920,
       1622016
+    ]
+  },
+  "371F3502-4957-BA59-2702-928B0FF445D8": {
+    "data": {
+      "seed": 11967
+    },
+    "facing": 2057860482,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      819200,
+      720896
     ]
   },
   "373150E3-45DA-2848-ABB0-D9941490663A": {
@@ -3375,6 +4251,30 @@
     "position": [
       -720896,
       1654784
+    ]
+  },
+  "38CF4639-4D66-D792-2FEF-D986E6B8464F": {
+    "data": {
+      "seed": 7318
+    },
+    "facing": 1356964309,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -327680,
+      -475136
+    ]
+  },
+  "38ECC613-4250-0FFA-5330-5BB55BB0373F": {
+    "data": {
+      "seed": 29591
+    },
+    "facing": 377924853,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      770048,
+      704512
     ]
   },
   "39896F54-442F-91CA-BD0E-98A688154B2C": {
@@ -3545,6 +4445,18 @@
       -917504
     ]
   },
+  "3BE3C25F-4BEE-417F-D6CC-8B887F14B9B6": {
+    "data": {
+      "seed": 29591
+    },
+    "facing": 1451666707,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -802816,
+      -704512
+    ]
+  },
   "3BEBD59D-41DD-012C-B577-11B4E3F44DF8": {
     "data": {
       "seed": 11467
@@ -3615,6 +4527,18 @@
     "position": [
       2064384,
       -278528
+    ]
+  },
+  "3CEFFCA5-4C0C-D4B2-141C-B385D0D555A7": {
+    "data": {
+      "seed": 1330
+    },
+    "facing": 1526576657,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -1196032,
+      -1130496
     ]
   },
   "3D284C7C-438D-AD10-3772-2EBE8B0FC826": {
@@ -3785,6 +4709,18 @@
       344064
     ]
   },
+  "3F2FB2DF-4757-B2DA-1EE3-369954DD0ADB": {
+    "data": {
+      "seed": 122
+    },
+    "facing": 200906746,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      819200,
+      671744
+    ]
+  },
   "3F829A44-4281-BBA1-3402-1CB145A3504B": {
     "data": {
       "seed": 20418
@@ -3809,6 +4745,30 @@
       2015232
     ]
   },
+  "3FC7FC7B-46DD-1D6A-ADE7-969A45DD26A5": {
+    "data": {
+      "seed": 30723
+    },
+    "facing": 975369260,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      262144,
+      360448
+    ]
+  },
+  "4050D9D4-4D0C-2BE9-3513-C185A50A407D": {
+    "data": {
+      "seed": 18614
+    },
+    "facing": 523288177,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      294912,
+      360448
+    ]
+  },
   "4054ED8D-4437-B543-FFBD-2FB9B58E17F6": {
     "data": {
       "seed": 29269
@@ -3819,6 +4779,18 @@
     "position": [
       704512,
       -1654784
+    ]
+  },
+  "405FBE0D-4D23-3408-EA2A-F592AED95DEA": {
+    "data": {
+      "seed": 20278
+    },
+    "facing": 9863487,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      606208,
+      573440
     ]
   },
   "4063927E-49FD-9A18-7621-4BA6A1B25D84": {
@@ -3869,6 +4841,18 @@
       573440
     ]
   },
+  "40EFBCB4-4DA3-5D35-5CC8-A086CFA961D6": {
+    "data": {
+      "seed": 6041
+    },
+    "facing": 2118253700,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -557056,
+      -557056
+    ]
+  },
   "415B2A3A-45E2-B16F-7E9C-0DA070CBE24D": {
     "data": {
       "seed": 6668
@@ -3891,6 +4875,18 @@
     "position": [
       -1376256,
       -950272
+    ]
+  },
+  "41AC31B0-4C67-1427-C4A7-83AA42D6F3BB": {
+    "data": {
+      "seed": 24998
+    },
+    "facing": 1389503893,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      327680,
+      376832
     ]
   },
   "41B09AA5-4FE1-A73B-8A1F-1EAA4249E94A": {
@@ -3927,6 +4923,30 @@
     "position": [
       -1228800,
       802816
+    ]
+  },
+  "4274E0A6-4D29-49AF-785B-0982AA0E86EA": {
+    "data": {
+      "seed": 22919
+    },
+    "facing": 1695697420,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      606208,
+      589824
+    ]
+  },
+  "42829301-4398-4AA4-49B3-B0866D8F536D": {
+    "data": {
+      "seed": 25803
+    },
+    "facing": 1898570326,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -1196032,
+      -1048576
     ]
   },
   "42C42A8B-4325-3113-3C9F-A69ABD0E1F1E": {
@@ -3977,6 +4997,18 @@
       1802240
     ]
   },
+  "42E96449-41D0-144A-B0B7-33B63D30E1EE": {
+    "data": {
+      "seed": 20961
+    },
+    "facing": 1542535184,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      1015808,
+      1130496
+    ]
+  },
   "42EBF549-4962-B16B-3A8E-1C91DE3E6396": {
     "data": {
       "seed": 8951
@@ -3999,6 +5031,18 @@
     "position": [
       2080768,
       -327680
+    ]
+  },
+  "436E42C0-461E-D180-0653-D6ABF0717940": {
+    "data": {
+      "seed": 26684
+    },
+    "facing": 587875823,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -540672,
+      -540672
     ]
   },
   "436EB322-4059-DE58-9AB9-E5A335E1ECF4": {
@@ -4061,6 +5105,18 @@
       -557056
     ]
   },
+  "4498142D-46D1-FD4C-B793-ECB166DEEAF1": {
+    "data": {
+      "seed": 18719
+    },
+    "facing": 59442942,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -966656,
+      -1064960
+    ]
+  },
   "44D763D0-4136-C2B1-ED79-C7AEFC6EDFEC": {
     "data": {
       "seed": 20013
@@ -4085,6 +5141,18 @@
       1376256
     ]
   },
+  "455A9E3B-4BC8-B018-AF30-CB92B41893BE": {
+    "data": {
+      "seed": 575
+    },
+    "facing": 424227444,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -294912,
+      -425984
+    ]
+  },
   "4572D9C7-4BFB-2756-F235-088920F1807A": {
     "data": {
       "seed": 17477
@@ -4098,7 +5166,7 @@
     ]
   },
   "459B954E-4A05-4DE5-BFDC-D19E783D3BA0": {
-    "facing": 1879048206,
+    "facing": 0,
     "kind": "MegaResourceA",
     "player": 2,
     "position": [
@@ -4116,6 +5184,18 @@
     "position": [
       245760,
       999424
+    ]
+  },
+  "4644121B-49E7-B599-8CAC-109006713CB6": {
+    "data": {
+      "seed": 27868
+    },
+    "facing": 1163463323,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      212992,
+      131072
     ]
   },
   "4656C061-42A2-4D8D-D3B5-CDB2D67488BC": {
@@ -4154,6 +5234,18 @@
       -409600
     ]
   },
+  "46A21A91-405A-BE7F-5568-A0839C9ADFF8": {
+    "data": {
+      "seed": 20158
+    },
+    "facing": 589481519,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      344064,
+      360448
+    ]
+  },
   "4714454C-43ED-5121-FFE4-8F89EDB981F6": {
     "data": {
       "seed": 31840
@@ -4178,6 +5270,18 @@
       540672
     ]
   },
+  "475D5D54-449D-4ED6-3BB5-F280868E6281": {
+    "data": {
+      "seed": 12239
+    },
+    "facing": 943124565,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      163840,
+      147456
+    ]
+  },
   "476A8EEE-461A-429D-5021-919F65CB1AC5": {
     "data": {
       "seed": 1119
@@ -4188,6 +5292,18 @@
     "position": [
       -1998848,
       376832
+    ]
+  },
+  "4772F9A1-4FB3-CB25-D66E-A7923CA250F7": {
+    "data": {
+      "seed": 122
+    },
+    "facing": 200906746,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      851968,
+      704512
     ]
   },
   "47C3AE7E-4559-6CF9-8E86-74927288B295": {
@@ -4212,6 +5328,30 @@
     "position": [
       376832,
       -1966080
+    ]
+  },
+  "480B8C59-4557-8E4B-CBA5-81BB27DB10A8": {
+    "data": {
+      "seed": 13112
+    },
+    "facing": 1501115153,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      1032192,
+      999424
+    ]
+  },
+  "484768FD-49D5-9969-AB22-A08A8BD4FD37": {
+    "data": {
+      "seed": 29314
+    },
+    "facing": 1941137285,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      1048576,
+      1064960
     ]
   },
   "486B69CD-4044-A1CF-231C-DAA4C9EA5DE5": {
@@ -4298,6 +5438,18 @@
       1851392
     ]
   },
+  "4A1A9094-44E2-9B40-6F53-EDBDD4E8F128": {
+    "data": {
+      "seed": 2450
+    },
+    "facing": 1748947083,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -1179648,
+      -1064960
+    ]
+  },
   "4A22A73C-45E1-80F2-B0DA-B89080DB9FD5": {
     "data": {
       "seed": 9971
@@ -4335,7 +5487,7 @@
     ]
   },
   "4A88C49A-4A7F-EE49-4F02-9AB22E7C70C6": {
-    "facing": 1879048206,
+    "facing": 0,
     "kind": "MegaResourceA",
     "player": 2,
     "position": [
@@ -4391,6 +5543,18 @@
       -1048576
     ]
   },
+  "4B6BC91B-4637-09E6-5E23-34907A6E49AD": {
+    "data": {
+      "seed": 19211
+    },
+    "facing": 1492988434,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      1228800,
+      1097728
+    ]
+  },
   "4B70C3EB-4975-F75E-77D6-DC82C80D6F9F": {
     "data": {
       "seed": 3801
@@ -4403,6 +5567,18 @@
       720896
     ]
   },
+  "4BBCD76A-453C-28ED-2C84-54A258A6E107": {
+    "data": {
+      "seed": 28897
+    },
+    "facing": 1193447002,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -294912,
+      -442368
+    ]
+  },
   "4BD742F3-4015-1D30-D062-78954AFA46B4": {
     "data": {
       "seed": 30537
@@ -4413,6 +5589,18 @@
     "position": [
       606208,
       -1753088
+    ]
+  },
+  "4C231A4E-4CAC-6D37-9F10-98944D178F6C": {
+    "data": {
+      "seed": 3938
+    },
+    "facing": 600491919,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      999424,
+      1114112
     ]
   },
   "4C6165C1-4C19-62A2-C261-F5B81006D607": {
@@ -4440,7 +5628,7 @@
     ]
   },
   "4C982DEE-4775-0DC7-B0BC-9A979C2ED018": {
-    "facing": 443069615,
+    "facing": 0,
     "kind": "ResourceB_Generator_2x2",
     "player": 2,
     "position": [
@@ -4496,6 +5684,18 @@
       1785856
     ]
   },
+  "4E1A5C7D-44AA-014B-9F7F-0893403AD6EE": {
+    "data": {
+      "seed": 9376
+    },
+    "facing": 1914823750,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -983040,
+      -1130496
+    ]
+  },
   "4E597B6A-4AD3-22E0-BF08-67B466579DAD": {
     "data": {
       "seed": 25424
@@ -4544,6 +5744,18 @@
       327680
     ]
   },
+  "4ECC95FE-488B-C7EB-7F37-E1A071B93C43": {
+    "data": {
+      "seed": 27301
+    },
+    "facing": 2145025920,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      180224,
+      131072
+    ]
+  },
   "4ED6385C-4223-B271-AB8A-24AF1FC22E19": {
     "data": {
       "seed": 12994
@@ -4568,6 +5780,18 @@
       1392640
     ]
   },
+  "4EFD540E-403E-7D12-B66D-08841633CA4B": {
+    "data": {
+      "seed": 14613
+    },
+    "facing": 1225691673,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -245760,
+      -131072
+    ]
+  },
   "4F098DB5-4A74-E6B9-1151-568A59DDB8E5": {
     "data": {
       "seed": 15271
@@ -4578,6 +5802,18 @@
     "position": [
       2064384,
       -327680
+    ]
+  },
+  "4F144A81-4741-EF93-E1F0-35B3D96B05C5": {
+    "data": {
+      "seed": 15498
+    },
+    "facing": 1085079965,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      851968,
+      737280
     ]
   },
   "4FCE36D6-4475-0AD8-4A28-2A948A34FFC8": {
@@ -4592,6 +5828,18 @@
       442368
     ]
   },
+  "4FD8CC6D-4AB5-8A3C-39CF-39BE226716FF": {
+    "data": {
+      "seed": 423
+    },
+    "facing": 1535260433,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      311296,
+      360448
+    ]
+  },
   "504DDC0B-4589-9308-5F40-2BB0427177DD": {
     "data": {
       "seed": 28394
@@ -4602,6 +5850,18 @@
     "position": [
       -1802240,
       557056
+    ]
+  },
+  "50679E75-4D61-F5B5-3B7B-25A789DB542A": {
+    "data": {
+      "seed": 12222
+    },
+    "facing": 2012311555,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      507904,
+      507904
     ]
   },
   "507161F4-48F1-45BC-7D2E-0E8F99EDB12D": {
@@ -4662,6 +5922,18 @@
     "position": [
       -557056,
       1835008
+    ]
+  },
+  "5137CC14-49C4-EE9E-6EBB-34B4F8C48EDA": {
+    "data": {
+      "seed": 32537
+    },
+    "facing": 1455893907,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      1261568,
+      1114112
     ]
   },
   "51585BC6-4790-DA0C-0698-B3A1BF7FAB2B": {
@@ -4760,6 +6032,18 @@
       -245760
     ]
   },
+  "525A6A2F-4CE3-F962-F5F2-1E8BB6BFB9C3": {
+    "data": {
+      "seed": 26238
+    },
+    "facing": 1608105935,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -212992,
+      -65536
+    ]
+  },
   "526ABA95-40A8-5613-423A-7DA07683990E": {
     "data": {
       "seed": 13528
@@ -4856,6 +6140,18 @@
       1638400
     ]
   },
+  "541CAF80-4624-AB84-04AA-4E852CFB5B6B": {
+    "data": {
+      "seed": 19417
+    },
+    "facing": 1476341778,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      442368,
+      458752
+    ]
+  },
   "541D360B-4128-B6BE-C8C5-18A894D13BBF": {
     "data": {
       "seed": 25959
@@ -4904,6 +6200,18 @@
       -2015232
     ]
   },
+  "5500D126-44C0-39CD-92C6-8E9827721F94": {
+    "data": {
+      "seed": 29503
+    },
+    "facing": 846259400,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      196608,
+      147456
+    ]
+  },
   "55159571-4BC7-D408-06C8-6684779FCDBF": {
     "data": {
       "seed": 29269
@@ -4928,6 +6236,18 @@
       -442368
     ]
   },
+  "5522D9B6-460B-AD71-6977-3CB69F226017": {
+    "data": {
+      "seed": 18246
+    },
+    "facing": 1816287369,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      1032192,
+      1015808
+    ]
+  },
   "55E4C6A7-4047-E4F7-6C24-FD81AADAC021": {
     "data": {
       "seed": 16248
@@ -4938,6 +6258,18 @@
     "position": [
       -81920,
       -1556480
+    ]
+  },
+  "55E7A760-4A46-DDC1-AE51-A285B179F89A": {
+    "data": {
+      "seed": 9173
+    },
+    "facing": 942665797,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      786432,
+      753664
     ]
   },
   "561FB7D2-405F-DC3D-FB05-3888FF29E89C": {
@@ -4986,6 +6318,30 @@
     "position": [
       327680,
       -1687552
+    ]
+  },
+  "566A8354-4291-4238-DC3A-98B11C73C3FA": {
+    "data": {
+      "seed": 10209
+    },
+    "facing": 146542971,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -1048576,
+      -1032192
+    ]
+  },
+  "567A71FE-4D2A-1398-0FCB-729ECD0186F6": {
+    "data": {
+      "seed": 2070
+    },
+    "facing": 21365375,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -491520,
+      -475136
     ]
   },
   "5725C52B-4E3E-45D8-94BD-E6BB90D096C7": {
@@ -5108,6 +6464,18 @@
       2064384
     ]
   },
+  "58E9E089-4D6D-DA7E-999D-0C8D447DD95D": {
+    "data": {
+      "seed": 23696
+    },
+    "facing": 1358209557,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -540672,
+      -557056
+    ]
+  },
   "59376FBA-4A18-4F4A-15F6-C29265ED124A": {
     "data": {
       "seed": 22555
@@ -5168,6 +6536,18 @@
       786432
     ]
   },
+  "5A3B681E-4FF1-F966-44DF-0B8BB515DAD8": {
+    "data": {
+      "seed": 17951
+    },
+    "facing": 609241199,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -442368,
+      -442368
+    ]
+  },
   "5A690EFC-4197-F3A3-47AE-70A8D94CB907": {
     "data": {
       "seed": 23962
@@ -5214,6 +6594,30 @@
     "position": [
       557056,
       -1785856
+    ]
+  },
+  "5B38000F-4C16-A76C-E220-28BB3F46C02F": {
+    "data": {
+      "seed": 997
+    },
+    "facing": 801398633,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -819200,
+      -737280
+    ]
+  },
+  "5B57527B-465A-1F5D-B3B3-219CA9618B53": {
+    "data": {
+      "seed": 12222
+    },
+    "facing": 938569701,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -491520,
+      -491520
     ]
   },
   "5B62DFD7-47DC-ED24-940E-A6B4230CC0FB": {
@@ -5264,6 +6668,18 @@
       1818624
     ]
   },
+  "5CCD7BF2-4122-A63B-D128-4D80DF8524B5": {
+    "data": {
+      "seed": 16719
+    },
+    "facing": 1754648874,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -163840,
+      -114688
+    ]
+  },
   "5CCF43A3-4FC3-E5E2-F30B-409508497AD5": {
     "data": {
       "seed": 9378
@@ -5300,6 +6716,18 @@
       -573440
     ]
   },
+  "5CFEB27A-45CE-247E-E02A-6DBD0011555B": {
+    "data": {
+      "seed": 1006
+    },
+    "facing": 1013774523,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      589824,
+      589824
+    ]
+  },
   "5D4E242E-4B9D-BFB5-5939-799B8408BD1B": {
     "data": {
       "seed": 13847
@@ -5322,6 +6750,18 @@
     "position": [
       -2015232,
       360448
+    ]
+  },
+  "5D79CB79-4B6F-F52C-534F-0ABBDE6ED79D": {
+    "data": {
+      "seed": 31998
+    },
+    "facing": 1743278091,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      262144,
+      376832
     ]
   },
   "5D7A503A-4AA6-DCC4-322B-A598ED49E628": {
@@ -5360,6 +6800,18 @@
       -1769472
     ]
   },
+  "5E26769E-429C-4EAF-B745-B390A9851DFE": {
+    "data": {
+      "seed": 18025
+    },
+    "facing": 299180919,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -278528,
+      -425984
+    ]
+  },
   "5E3CC18A-4E33-0A25-53CD-38B7EE0A9152": {
     "data": {
       "seed": 6668
@@ -5370,6 +6822,18 @@
     "position": [
       -1589248,
       770048
+    ]
+  },
+  "5E42532A-4854-691B-1F2C-FD8AA890631D": {
+    "data": {
+      "seed": 7315
+    },
+    "facing": 120393340,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -983040,
+      -1081344
     ]
   },
   "5E4B3052-492C-C24B-A16E-5E90BD90DD4E": {
@@ -5418,6 +6882,18 @@
     "position": [
       -1671168,
       704512
+    ]
+  },
+  "5FD57684-4A49-B1D4-5B8D-07AB30341E3F": {
+    "data": {
+      "seed": 29591
+    },
+    "facing": 377924853,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      753664,
+      753664
     ]
   },
   "602ADC64-4809-C78A-5A32-6981311C3FDC": {
@@ -5504,6 +6980,18 @@
       -1654784
     ]
   },
+  "61722154-45B1-3BEA-346A-C5B13FA75FB4": {
+    "data": {
+      "seed": 16719
+    },
+    "facing": 680907021,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      147456,
+      163840
+    ]
+  },
   "61A9AED0-4E66-1AEE-21F8-8DA2037C6482": {
     "data": {
       "seed": 20235
@@ -5540,6 +7028,30 @@
       425984
     ]
   },
+  "61EF1C3D-4CDB-4C72-1512-888ADCCE88DD": {
+    "data": {
+      "seed": 15498
+    },
+    "facing": 11338111,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -819200,
+      -753664
+    ]
+  },
+  "629DE965-46A0-37BB-909F-A5808C3200BD": {
+    "data": {
+      "seed": 1526
+    },
+    "facing": 1753141514,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -1032192,
+      -999424
+    ]
+  },
   "62D09F2D-47EC-DB0F-A280-739E355B1697": {
     "data": {
       "seed": 29108
@@ -5574,6 +7086,30 @@
     "position": [
       1179648,
       -540672
+    ]
+  },
+  "638CFB7F-490C-D704-38F5-FEBC49351DCD": {
+    "data": {
+      "seed": 20030
+    },
+    "facing": 878962855,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      278528,
+      409600
+    ]
+  },
+  "6395F776-4981-D703-3912-A0B01FE74951": {
+    "data": {
+      "seed": 13112
+    },
+    "facing": 427373300,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -966656,
+      -1048576
     ]
   },
   "64141597-4A2B-ADB5-4A97-26BADD1931F2": {
@@ -5624,6 +7160,18 @@
       835584
     ]
   },
+  "64CEACC2-4FFE-C069-1F1D-C08508FE9FFE": {
+    "data": {
+      "seed": 3599
+    },
+    "facing": 203397178,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      524288,
+      491520
+    ]
+  },
   "64E53C9C-4B8E-C6B0-1AFD-329489C507D6": {
     "data": {
       "seed": 1877
@@ -5649,12 +7197,21 @@
     ]
   },
   "654B685E-4F2B-885D-A478-798D0801912E": {
-    "facing": 536526833,
+    "facing": 0,
     "kind": "ResourceB_Generator_2x2",
     "player": 2,
     "position": [
       -229376,
       1343488
+    ]
+  },
+  "654CBB78-425A-F294-93BD-C5B4B7E8EAF4": {
+    "facing": 0,
+    "kind": "_StormgateObjective_TugOfWar0",
+    "player": 31,
+    "position": [
+      0,
+      0
     ]
   },
   "65613C34-4F47-CA30-7645-CEA60A88A5A3": {
@@ -5667,6 +7224,18 @@
     "position": [
       1540096,
       -557056
+    ]
+  },
+  "65633735-4544-C7BE-73D8-DAA9299B1D60": {
+    "data": {
+      "seed": 28897
+    },
+    "facing": 1193447002,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -229376,
+      -81920
     ]
   },
   "658711B8-4798-05CD-F07F-E0B85934D01D": {
@@ -5693,6 +7262,18 @@
       540672
     ]
   },
+  "65A670D2-441B-7ED3-9ACA-2293EE672719": {
+    "data": {
+      "seed": 20961
+    },
+    "facing": 468793330,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -1048576,
+      -1081344
+    ]
+  },
   "65D2237B-48A3-BB1B-A473-929BA186C903": {
     "data": {
       "seed": 7313
@@ -5715,6 +7296,18 @@
     "position": [
       -1605632,
       147456
+    ]
+  },
+  "65DB223E-47C7-60FC-BAE0-37BF6C6D36F7": {
+    "data": {
+      "seed": 4479
+    },
+    "facing": 2005069571,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -327680,
+      -458752
     ]
   },
   "65F5A509-4426-E5AA-0E2A-4581BBBBC13C": {
@@ -5861,6 +7454,18 @@
       -933888
     ]
   },
+  "68389D78-4256-D862-54FD-508249CC128D": {
+    "data": {
+      "seed": 28385
+    },
+    "facing": 1817958601,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -1212416,
+      -1097728
+    ]
+  },
   "684228ED-4939-F8FA-7574-5EAC1197ACFF": {
     "data": {
       "seed": 14320
@@ -5945,6 +7550,18 @@
       -1114112
     ]
   },
+  "693EE2A4-45AF-0CC5-2EE6-DEA5A819BAE4": {
+    "data": {
+      "seed": 3938
+    },
+    "facing": 1674233773,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -966656,
+      -1114112
+    ]
+  },
   "69444293-405F-55BB-38B9-59B37BFAE59D": {
     "data": {
       "seed": 3072
@@ -5955,6 +7572,18 @@
     "position": [
       16384,
       -1064960
+    ]
+  },
+  "694625CB-4675-14AA-6101-B1B09498B5C4": {
+    "data": {
+      "seed": 17657
+    },
+    "facing": 518438321,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      229376,
+      114688
     ]
   },
   "696B7387-471C-DD51-B5D2-70BE24D1300E": {
@@ -6209,6 +7838,18 @@
       147456
     ]
   },
+  "6CCE5F67-45D4-EB29-6E70-9CA65A2A3380": {
+    "data": {
+      "seed": 29503
+    },
+    "facing": 1920001254,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -147456,
+      -163840
+    ]
+  },
   "6CEF5AF9-412E-E5B1-55DB-4DB430024F89": {
     "data": {
       "seed": 12211
@@ -6317,6 +7958,18 @@
       -1867776
     ]
   },
+  "6EF9F283-421B-5828-D66D-2AB5162AABF6": {
+    "data": {
+      "seed": 26167
+    },
+    "facing": 1007187939,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -557056,
+      -573440
+    ]
+  },
   "6EFA966A-45BF-14BE-78AD-4184D33EEFD8": {
     "data": {
       "seed": 15271
@@ -6329,6 +7982,30 @@
       -1622016
     ]
   },
+  "6F11EB9D-4B56-F75D-AD4E-0095863E4DD9": {
+    "data": {
+      "seed": 3599
+    },
+    "facing": 1277139032,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -458752,
+      -458752
+    ]
+  },
+  "6F2BB163-4157-0927-DC2B-C3AF53C207F5": {
+    "data": {
+      "seed": 20576
+    },
+    "facing": 1337171862,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -1228800,
+      -1081344
+    ]
+  },
   "6F47D745-433A-E681-BA09-07A0A4A7496C": {
     "data": {
       "seed": 9971
@@ -6339,6 +8016,18 @@
     "position": [
       -835584,
       1556480
+    ]
+  },
+  "6F6B34AB-464A-8082-283B-E7950029FD9A": {
+    "data": {
+      "seed": 32537
+    },
+    "facing": 382152053,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -540672,
+      -507904
     ]
   },
   "6F90872D-4E52-91E7-A0E2-6AAE00CEF648": {
@@ -6387,6 +8076,18 @@
     "position": [
       -1146880,
       -409600
+    ]
+  },
+  "700ED8C5-42F2-FDFE-AD95-7C94CDF09A8A": {
+    "data": {
+      "seed": 20202
+    },
+    "facing": 853271976,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      983040,
+      1048576
     ]
   },
   "70346865-4549-FBA7-8F5B-01A592969CDF": {
@@ -6485,6 +8186,18 @@
       -458752
     ]
   },
+  "718B4C09-4CB7-E758-7E57-9EB0B0B91D9F": {
+    "data": {
+      "seed": 21641
+    },
+    "facing": 1461071379,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      753664,
+      786432
+    ]
+  },
   "71AA37ED-40CC-C083-FF6F-6BB6EEF6405D": {
     "data": {
       "seed": 23865
@@ -6543,6 +8256,30 @@
     "position": [
       753664,
       -1671168
+    ]
+  },
+  "720B8850-426E-9BE5-A3E2-AF9157FF39E6": {
+    "data": {
+      "seed": 27868
+    },
+    "facing": 89721469,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -163840,
+      -147456
+    ]
+  },
+  "72556143-4E8A-DEEE-62D0-5DB963129DF6": {
+    "data": {
+      "seed": 11346
+    },
+    "facing": 295510775,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -999424,
+      -1032192
     ]
   },
   "725A1AF0-436B-16A2-6476-598FC86B4BE1": {
@@ -6605,6 +8342,18 @@
       -393216
     ]
   },
+  "72B0D426-4C9B-C030-63D6-6EB569BCFE98": {
+    "data": {
+      "seed": 17657
+    },
+    "facing": 1592180175,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -212992,
+      -131072
+    ]
+  },
   "72DF7867-4BA4-7CBA-4051-048A82F0AEAF": {
     "data": {
       "seed": 12273
@@ -6629,6 +8378,18 @@
       -688128
     ]
   },
+  "731EFA57-4F21-CE00-1056-40B3E1243683": {
+    "data": {
+      "seed": 18719
+    },
+    "facing": 1133184796,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      933888,
+      1081344
+    ]
+  },
   "733F5547-47F4-DA14-3FA5-E0BFA0224FA8": {
     "data": {
       "seed": 29466
@@ -6651,6 +8412,18 @@
     "position": [
       262144,
       983040
+    ]
+  },
+  "73513EDE-4EEB-9A43-3813-20AE5B606AE4": {
+    "data": {
+      "seed": 29475
+    },
+    "facing": 1042480168,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      802816,
+      770048
     ]
   },
   "7354917F-48B5-8355-0717-D0819CBEBF44": {
@@ -6783,6 +8556,18 @@
     "position": [
       1720320,
       -622592
+    ]
+  },
+  "74CD236B-40A9-CB37-4685-52A2FB1303BA": {
+    "data": {
+      "seed": 19417
+    },
+    "facing": 402599924,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -311296,
+      -442368
     ]
   },
   "74E743DF-4D10-0BB5-D087-408134744D0F": {
@@ -7001,6 +8786,18 @@
       1753088
     ]
   },
+  "787D873F-4513-4731-230C-07B36B26F060": {
+    "data": {
+      "seed": 12560
+    },
+    "facing": 1869012679,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -1179648,
+      -1097728
+    ]
+  },
   "78CC168F-4DCF-FA6D-F0B2-559655CD7987": {
     "data": {
       "seed": 10342
@@ -7037,6 +8834,18 @@
       1802240
     ]
   },
+  "792123A7-4D76-7B89-3AFA-34A6321722EC": {
+    "data": {
+      "seed": 134
+    },
+    "facing": 575980687,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      229376,
+      131072
+    ]
+  },
   "7931D46D-4B6C-0291-4996-3484B817C02A": {
     "data": {
       "seed": 18956
@@ -7047,6 +8856,30 @@
     "position": [
       327680,
       -1703936
+    ]
+  },
+  "793A168D-442D-019A-645C-4187BFE2AA82": {
+    "data": {
+      "seed": 13972
+    },
+    "facing": 1563835024,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      819200,
+      737280
+    ]
+  },
+  "793BBB67-4832-7488-BB0C-67AD61916657": {
+    "data": {
+      "seed": 3589
+    },
+    "facing": 1442458643,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      819200,
+      688128
     ]
   },
   "796D0BC4-42A2-223C-3878-F185ABDAD370": {
@@ -7097,6 +8930,18 @@
       1048576
     ]
   },
+  "79F33B89-43F3-9355-50BA-1C85DF02E3FA": {
+    "data": {
+      "seed": 27564
+    },
+    "facing": 740087851,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      163840,
+      114688
+    ]
+  },
   "7A0E86C8-45FE-1EDC-F6B5-628DDB0B37B8": {
     "data": {
       "seed": 5923
@@ -7121,6 +8966,18 @@
       1523712
     ]
   },
+  "7A37FC6F-4C0F-3FE5-F5F3-3293C94312E4": {
+    "data": {
+      "seed": 4992
+    },
+    "facing": 1998843460,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -507904,
+      -540672
+    ]
+  },
   "7A5341C4-49B8-D0D2-34B8-F3902AC937E1": {
     "data": {
       "seed": 26625
@@ -7131,6 +8988,30 @@
     "position": [
       -1294336,
       1130496
+    ]
+  },
+  "7A746D47-476C-2DB3-2A29-BF850A605FF0": {
+    "data": {
+      "seed": 14258
+    },
+    "facing": 290824887,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      589824,
+      606208
+    ]
+  },
+  "7A79CF70-4EE9-930A-E277-0F85F410A587": {
+    "data": {
+      "seed": 16075
+    },
+    "facing": 2007854979,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      327680,
+      425984
     ]
   },
   "7A7A8323-48A4-8345-4F84-84AA5991FFFF": {
@@ -7229,6 +9110,18 @@
       884736
     ]
   },
+  "7C6C9C40-4B8C-65A1-FAB2-10B1848E2256": {
+    "data": {
+      "seed": 1330
+    },
+    "facing": 452834803,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      1196032,
+      1097728
+    ]
+  },
   "7C707432-4F2D-B5B5-C672-5D9C28DAB743": {
     "data": {
       "seed": 404
@@ -7251,6 +9144,18 @@
     "position": [
       1736704,
       -622592
+    ]
+  },
+  "7CEDC6DF-4213-C680-D684-7BB8D399DD90": {
+    "data": {
+      "seed": 9839
+    },
+    "facing": 899148566,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      1245184,
+      1097728
     ]
   },
   "7CF1B764-4591-EBE7-BBCD-E6B66826582E": {
@@ -7325,6 +9230,66 @@
       -802816
     ]
   },
+  "7D968471-4306-1573-0E82-8C917F912CFE": {
+    "data": {
+      "seed": 16075
+    },
+    "facing": 934113126,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -278528,
+      -409600
+    ]
+  },
+  "7DB329F5-4170-FE7A-591D-EAAEDAD303B5": {
+    "data": {
+      "seed": 16584
+    },
+    "facing": 1298406167,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      524288,
+      524288
+    ]
+  },
+  "7DF53EFC-49B7-4EB3-9204-9497A665D842": {
+    "data": {
+      "seed": 2310
+    },
+    "facing": 1663354445,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -1228800,
+      -1097728
+    ]
+  },
+  "7E1E7469-462C-9940-B683-9F8C9C9F01B9": {
+    "data": {
+      "seed": 4496
+    },
+    "facing": 360033013,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      327680,
+      475136
+    ]
+  },
+  "7E288B44-41DD-0884-690E-66A91307D9E2": {
+    "data": {
+      "seed": 16114
+    },
+    "facing": 1568488208,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      966656,
+      1048576
+    ]
+  },
   "7E56A7D0-4B10-BC2A-799C-FE8D3DBDDB50": {
     "data": {
       "seed": 9856
@@ -7359,6 +9324,54 @@
     "position": [
       -1507328,
       884736
+    ]
+  },
+  "7E819F72-4303-5129-05AE-6EB5251F7BFC": {
+    "data": {
+      "seed": 16114
+    },
+    "facing": 494746354,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -933888,
+      -1081344
+    ]
+  },
+  "7EC60031-47D6-421F-4248-2DADA576EACD": {
+    "data": {
+      "seed": 30030
+    },
+    "facing": 1257543192,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -442368,
+      -458752
+    ]
+  },
+  "7F1FB733-4292-EB06-089F-FABEBF6A6D2E": {
+    "data": {
+      "seed": 13440
+    },
+    "facing": 2098985529,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -966656,
+      -1097728
+    ]
+  },
+  "7F369E3F-4D00-0721-09AD-96B9B219BA40": {
+    "data": {
+      "seed": 28897
+    },
+    "facing": 119705148,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      196608,
+      81920
     ]
   },
   "7F4B6968-4C43-8E08-331F-D5A9BCEC3A4E": {
@@ -7541,6 +9554,18 @@
       1540096
     ]
   },
+  "815EEC98-4414-48FB-6A6C-B884BBA9A324": {
+    "data": {
+      "seed": 20628
+    },
+    "facing": 241573113,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -589824,
+      -540672
+    ]
+  },
   "8199A8C0-4279-CCB6-07A1-5BB80099191A": {
     "data": {
       "seed": 6217
@@ -7563,6 +9588,18 @@
     "position": [
       65536,
       1130496
+    ]
+  },
+  "81E83958-4266-3B21-8531-1D8125FDD80B": {
+    "data": {
+      "seed": 18020
+    },
+    "facing": 1167657755,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      737280,
+      737280
     ]
   },
   "8229FCD7-4386-F950-62F8-A1A936C6A229": {
@@ -7637,6 +9674,27 @@
       -475136
     ]
   },
+  "83BF56CC-4D4A-1874-A8B8-C79F7F7BD616": {
+    "data": {
+      "seed": 28393
+    },
+    "facing": 1532245649,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      262144,
+      409600
+    ]
+  },
+  "83D5B5C9-4CB3-2A30-C60A-75A5A6DAD320": {
+    "facing": 0,
+    "kind": "_StormgateObjectiveSubmerged1",
+    "player": 31,
+    "position": [
+      1245184,
+      1245184
+    ]
+  },
   "83E3A292-418A-29D4-973D-4C90C1736D23": {
     "data": {
       "seed": 22555
@@ -7671,6 +9729,30 @@
     "position": [
       720896,
       -1638400
+    ]
+  },
+  "83F0A18D-406B-5AD3-454F-2BAF607A5AC0": {
+    "data": {
+      "seed": 8194
+    },
+    "facing": 1879629847,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -229376,
+      -131072
+    ]
+  },
+  "84617C43-492C-4773-1355-86ACF047E4AA": {
+    "data": {
+      "seed": 4524
+    },
+    "facing": 1813338121,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      1064960,
+      1048576
     ]
   },
   "84B1B2C3-49D7-DD52-C2A9-77ACF8EBFF79": {
@@ -7770,7 +9852,7 @@
     ]
   },
   "85C9F7D2-45B5-BFF3-1975-EB8BCCF8F795": {
-    "facing": 805306366,
+    "facing": 0,
     "kind": "MegaResourceA",
     "player": 2,
     "position": [
@@ -7874,6 +9956,18 @@
       1572864
     ]
   },
+  "8804C5C1-4FE8-7792-8173-3E9C4B784A1D": {
+    "data": {
+      "seed": 21593
+    },
+    "facing": 416231796,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -999424,
+      -1064960
+    ]
+  },
   "882A48B7-40B4-69FF-B393-6599D36C356A": {
     "data": {
       "seed": 2840
@@ -7886,8 +9980,20 @@
       -1884160
     ]
   },
+  "88492B68-401C-6859-89DC-538A17868B15": {
+    "data": {
+      "seed": 25000
+    },
+    "facing": 2007789443,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      1064960,
+      1015808
+    ]
+  },
   "88A64AF3-449B-30E0-1986-58BACA775CE3": {
-    "facing": 167449595,
+    "facing": 0,
     "kind": "ResourceB_Generator_2x2",
     "player": 0,
     "position": [
@@ -7908,7 +10014,7 @@
     ]
   },
   "892BEF32-4AEE-B658-5BF3-BBB13BDBE82F": {
-    "facing": 1879048206,
+    "facing": 0,
     "kind": "MegaResourceA",
     "player": 2,
     "position": [
@@ -7938,6 +10044,18 @@
     "position": [
       -1638400,
       720896
+    ]
+  },
+  "89D26912-459D-156A-AB36-53A096E592A8": {
+    "data": {
+      "seed": 122
+    },
+    "facing": 1772606282,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -753664,
+      -753664
     ]
   },
   "8A37F6DF-4DB4-7F49-DDE9-4D94E7BD8E63": {
@@ -8024,6 +10142,18 @@
       -524288
     ]
   },
+  "8C5E7F07-4DFA-C85A-2E8A-2E8753B153A9": {
+    "data": {
+      "seed": 19760
+    },
+    "facing": 1373152213,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -622592,
+      -606208
+    ]
+  },
   "8C668BBC-43D2-B295-D9CC-A5B856121515": {
     "data": {
       "seed": 20131
@@ -8108,6 +10238,18 @@
       933888
     ]
   },
+  "8D4558E8-4E06-2E7D-942C-03A42E9A21A6": {
+    "data": {
+      "seed": 23784
+    },
+    "facing": 1963616773,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      147456,
+      163840
+    ]
+  },
   "8DE7183D-41AE-A663-A87A-769F1681F105": {
     "data": {
       "seed": 7315
@@ -8118,6 +10260,18 @@
     "position": [
       -1851392,
       573440
+    ]
+  },
+  "8E3CC580-4250-ABD6-532B-9CA889E97B5C": {
+    "data": {
+      "seed": 23696
+    },
+    "facing": 284467704,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      491520,
+      524288
     ]
   },
   "8E6ED668-45DB-984B-F0F3-A38E98493A8D": {
@@ -8178,6 +10332,18 @@
     "position": [
       786432,
       -294912
+    ]
+  },
+  "8F31FC18-4572-B8ED-E327-1DBF37CFFBEF": {
+    "data": {
+      "seed": 18679
+    },
+    "facing": 876505191,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -835584,
+      -737280
     ]
   },
   "8F6F8472-4743-745C-7123-67867EE04BDC": {
@@ -8360,6 +10526,18 @@
       -933888
     ]
   },
+  "91DFFC85-4EFD-711B-E2D6-65A0CAC8E7BA": {
+    "data": {
+      "seed": 25252
+    },
+    "facing": 725735019,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      294912,
+      327680
+    ]
+  },
   "91FDDAEF-4C22-3941-27BA-6A95AD5850C7": {
     "data": {
       "seed": 14320
@@ -8492,6 +10670,18 @@
       -1032192
     ]
   },
+  "93974766-4840-09D8-6B90-6F8F3EA8BC04": {
+    "data": {
+      "seed": 20967
+    },
+    "facing": 716494156,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      491520,
+      475136
+    ]
+  },
   "93AC8C30-4A66-ECDF-D4D1-659D6F779BB0": {
     "data": {
       "seed": 10400
@@ -8564,6 +10754,18 @@
       1638400
     ]
   },
+  "947AA0E8-4085-9C9D-C55F-F49478FB2851": {
+    "data": {
+      "seed": 122
+    },
+    "facing": 200906746,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      737280,
+      770048
+    ]
+  },
   "94B2694A-4326-E152-86B8-2ABBCCCE0037": {
     "data": {
       "seed": 6132
@@ -8586,6 +10788,30 @@
     "position": [
       1081344,
       540672
+    ]
+  },
+  "9565F3F8-4F83-99E5-3FE2-2BB044662D59": {
+    "data": {
+      "seed": 21091
+    },
+    "facing": 1373381525,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      229376,
+      81920
+    ]
+  },
+  "95760F34-4CAA-A03F-9F27-039F9A724422": {
+    "data": {
+      "seed": 29515
+    },
+    "facing": 1797117513,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -491520,
+      -524288
     ]
   },
   "959BF123-4FFC-DA04-A8C3-6AAA79B7BD50": {
@@ -8682,6 +10908,30 @@
     "position": [
       -16384,
       1048576
+    ]
+  },
+  "97005427-4C7E-29FF-51B6-AF9711391B15": {
+    "data": {
+      "seed": 10890
+    },
+    "facing": 485210546,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      1032192,
+      1064960
+    ]
+  },
+  "978BE65F-46B8-E8E9-E703-BC86D46E6E9C": {
+    "data": {
+      "seed": 20873
+    },
+    "facing": 2010869635,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      524288,
+      507904
     ]
   },
   "97D6296E-46B5-483F-4448-37B0AD5CAFF5": {
@@ -8804,6 +11054,18 @@
       -344064
     ]
   },
+  "9940B201-4049-1B49-9AE9-21AB24C804E1": {
+    "data": {
+      "seed": 21588
+    },
+    "facing": 1860558279,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -753664,
+      -720896
+    ]
+  },
   "994BC253-4780-F303-D353-7F903080F976": {
     "data": {
       "seed": 16248
@@ -8924,6 +11186,18 @@
       -1982464
     ]
   },
+  "9A93FDED-4CB6-E470-E60D-D7A37E6A3439": {
+    "data": {
+      "seed": 3589
+    },
+    "facing": 368716789,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -786432,
+      -688128
+    ]
+  },
   "9AA3A471-4D46-41D0-BDE4-E29F627D3177": {
     "data": {
       "seed": 30559
@@ -8948,6 +11222,30 @@
       -1622016
     ]
   },
+  "9AB1868E-44A1-9BB2-D0AC-038CCC72C984": {
+    "data": {
+      "seed": 18020
+    },
+    "facing": 1167657755,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      802816,
+      720896
+    ]
+  },
+  "9AD52746-4325-8640-5CC2-CEAB6B53D95E": {
+    "data": {
+      "seed": 15248
+    },
+    "facing": 1258067480,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -1032192,
+      -1097728
+    ]
+  },
   "9B3F33E4-42C2-2554-9F81-56BDDB98184D": {
     "data": {
       "seed": 26360
@@ -8958,6 +11256,18 @@
     "position": [
       425984,
       -1916928
+    ]
+  },
+  "9BA56B1B-4187-D850-7333-E3A9B3BFFFE5": {
+    "data": {
+      "seed": 32747
+    },
+    "facing": 1602010895,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -475136,
+      -507904
     ]
   },
   "9BE5020A-4CF8-F267-E077-FF982D6682C2": {
@@ -9020,6 +11330,18 @@
       1015808
     ]
   },
+  "9CF206EB-4741-7546-5B94-D791E3525CA0": {
+    "data": {
+      "seed": 29515
+    },
+    "facing": 723375659,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      442368,
+      491520
+    ]
+  },
   "9D076F1C-4A8B-4137-02E0-52BACEF00051": {
     "data": {
       "seed": 1877
@@ -9030,6 +11352,18 @@
     "position": [
       -1409024,
       983040
+    ]
+  },
+  "9D19B48B-47D6-AED2-8858-67A24F919445": {
+    "data": {
+      "seed": 6041
+    },
+    "facing": 1044511846,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      573440,
+      573440
     ]
   },
   "9D206328-4D61-C12E-9C38-4F9002E49D36": {
@@ -9068,6 +11402,18 @@
       -1949696
     ]
   },
+  "9D5BA2B8-4D6D-4ECE-AF54-92B0188925A4": {
+    "data": {
+      "seed": 12183
+    },
+    "facing": 1875894183,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -1064960,
+      -1015808
+    ]
+  },
   "9D6ED944-43BB-D55D-7D60-5B8DAF5305BD": {
     "data": {
       "seed": 12273
@@ -9078,6 +11424,18 @@
     "position": [
       -1310720,
       1048576
+    ]
+  },
+  "9D9BF08D-4048-7A87-097E-A3AF76A2BAA1": {
+    "data": {
+      "seed": 18020
+    },
+    "facing": 93915901,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -851968,
+      -704512
     ]
   },
   "9D9E1E2B-41F6-D4B9-B2A5-FDAD00BEB4EC": {
@@ -9102,6 +11460,18 @@
     "position": [
       1638400,
       -786432
+    ]
+  },
+  "9E49EC9B-4C4E-768B-EE2A-07BB5848D1C3": {
+    "data": {
+      "seed": 1443
+    },
+    "facing": 279191928,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -786432,
+      -753664
     ]
   },
   "9E890F04-45B8-DC19-B028-1CB640DD2172": {
@@ -9200,6 +11570,30 @@
       -720896
     ]
   },
+  "9F9B9F22-4470-760B-9AE5-9ABEA1B24AB1": {
+    "data": {
+      "seed": 23207
+    },
+    "facing": 585385455,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -606208,
+      -573440
+    ]
+  },
+  "9F9F5059-49E6-AFE0-DE32-FA856D48D0A9": {
+    "data": {
+      "seed": 4496
+    },
+    "facing": 1433774867,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -311296,
+      -409600
+    ]
+  },
   "9FB459F4-4A51-73D6-FCA9-57BF8DF91D81": {
     "data": {
       "seed": 23795
@@ -9246,6 +11640,15 @@
     "position": [
       -442368,
       1933312
+    ]
+  },
+  "9FEB8A8B-4DB5-8DEE-F828-C5A4A4E24E5F": {
+    "facing": 0,
+    "kind": "_StormgateObjective_TugOfWar2",
+    "player": 31,
+    "position": [
+      -1245184,
+      -1245184
     ]
   },
   "A02745C3-4D8F-207C-55B2-9EB33F3C4614": {
@@ -9332,6 +11735,18 @@
       -262144
     ]
   },
+  "A0F2F61B-4B6D-717B-317A-CB8E2CD40AD5": {
+    "data": {
+      "seed": 24998
+    },
+    "facing": 315762039,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -311296,
+      -344064
+    ]
+  },
   "A0FE854C-444D-9FB7-6A3D-69B511A63C06": {
     "data": {
       "seed": 26360
@@ -9380,6 +11795,18 @@
       638976
     ]
   },
+  "A163672A-48D0-69FB-A9AC-4488D4F8551E": {
+    "data": {
+      "seed": 31998
+    },
+    "facing": 669536237,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -262144,
+      -409600
+    ]
+  },
   "A173C746-433D-52D6-A6C3-22B035C73F82": {
     "data": {
       "seed": 12994
@@ -9416,6 +11843,18 @@
       1884160
     ]
   },
+  "A1CB40B3-48E9-8D68-DCF4-C3A42BBE67EF": {
+    "data": {
+      "seed": 23895
+    },
+    "facing": 97946557,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      1245184,
+      1114112
+    ]
+  },
   "A1D6B392-4D12-4EB4-FE85-628AFDB1EE51": {
     "data": {
       "seed": 20418
@@ -9438,6 +11877,18 @@
     "position": [
       1933312,
       -442368
+    ]
+  },
+  "A2B73E62-49FF-574E-C8D0-BB9F2FF1F91D": {
+    "data": {
+      "seed": 18510
+    },
+    "facing": 1485091090,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -327680,
+      -344064
     ]
   },
   "A2D7BA44-4FBA-DE0C-C924-8199A29723B9": {
@@ -9572,6 +12023,18 @@
       -1998848
     ]
   },
+  "A43B300E-48F8-934E-20D1-3EA74CEC253A": {
+    "data": {
+      "seed": 21593
+    },
+    "facing": 1489973650,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      966656,
+      1114112
+    ]
+  },
   "A46DF87D-4593-1E74-B713-A1AA88BB404E": {
     "data": {
       "seed": 28954
@@ -9608,6 +12071,18 @@
       557056
     ]
   },
+  "A4F3A76E-409D-304B-5867-E3A8A7DB01E5": {
+    "data": {
+      "seed": 20202
+    },
+    "facing": 1927013830,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -1032192,
+      -1015808
+    ]
+  },
   "A5046FE0-4441-99FC-8180-EB8390C3C228": {
     "data": {
       "seed": 10854
@@ -9618,6 +12093,30 @@
     "position": [
       -1179648,
       -409600
+    ]
+  },
+  "A5129206-43A3-AFFE-1259-1CA756DFEA65": {
+    "data": {
+      "seed": 10587
+    },
+    "facing": 679989485,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      245760,
+      376832
+    ]
+  },
+  "A54567FF-4713-CA98-023E-2DA95E633301": {
+    "data": {
+      "seed": 9376
+    },
+    "facing": 841081896,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      999424,
+      1097728
     ]
   },
   "A5C9ECA0-4576-ACFF-DD6E-528420941CFD": {
@@ -9632,6 +12131,18 @@
       770048
     ]
   },
+  "A5CE165E-47F7-F8D1-3110-3C92BD721110": {
+    "data": {
+      "seed": 6227
+    },
+    "facing": 2012114947,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      589824,
+      573440
+    ]
+  },
   "A5E7B290-49D5-EF7B-CA60-C5806214102A": {
     "data": {
       "seed": 13552
@@ -9644,8 +12155,20 @@
       2031616
     ]
   },
+  "A5E871FE-4A33-088B-4C24-F3A8B969B45B": {
+    "data": {
+      "seed": 32747
+    },
+    "facing": 528269041,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      425984,
+      442368
+    ]
+  },
   "A5EF20C0-4C4E-E7C7-DD6D-9193253E8042": {
-    "facing": 635423658,
+    "facing": 0,
     "kind": "ResourceB_Generator_2x2",
     "player": 2,
     "position": [
@@ -9665,6 +12188,30 @@
       1638400
     ]
   },
+  "A61661F2-4EA2-E31B-2760-4292431E6B1B": {
+    "data": {
+      "seed": 7187
+    },
+    "facing": 1483616530,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      180224,
+      163840
+    ]
+  },
+  "A616DFCD-49CE-A0FE-BE7F-05B1B1BB257E": {
+    "data": {
+      "seed": 2450
+    },
+    "facing": 675205229,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      1196032,
+      1114112
+    ]
+  },
   "A622D6D2-4062-191F-BA16-6490FF5C18FA": {
     "data": {
       "seed": 29363
@@ -9675,6 +12222,30 @@
     "position": [
       -491520,
       1835008
+    ]
+  },
+  "A6382C19-4554-8AD3-9148-09B21694D918": {
+    "data": {
+      "seed": 31753
+    },
+    "facing": 2121530600,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -425984,
+      -442368
+    ]
+  },
+  "A666CE74-4230-8E73-B606-05A1E8B10580": {
+    "data": {
+      "seed": 27583
+    },
+    "facing": 1362797205,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -1196032,
+      -1081344
     ]
   },
   "A6743A42-44D9-1E06-5261-ABA3CA96A891": {
@@ -9785,6 +12356,30 @@
       393216
     ]
   },
+  "A7AC58C9-4008-2049-BE05-739279DCB302": {
+    "data": {
+      "seed": 29591
+    },
+    "facing": 1451666707,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -884736,
+      -737280
+    ]
+  },
+  "A7C4042B-4FBE-F5C6-BC94-57873468E0A0": {
+    "data": {
+      "seed": 20795
+    },
+    "facing": 1240077337,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      983040,
+      1015808
+    ]
+  },
   "A7FADD9F-4659-78C0-FCE9-D0A8653EB1DA": {
     "data": {
       "seed": 3801
@@ -9807,6 +12402,18 @@
     "position": [
       -458752,
       1933312
+    ]
+  },
+  "A90B8535-4BE3-D285-BDA8-AE8E2218FC6C": {
+    "data": {
+      "seed": 16430
+    },
+    "facing": 1293261399,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -589824,
+      -589824
     ]
   },
   "A9271BD9-45EC-63B8-D4F3-D785F80A1BC0": {
@@ -9843,6 +12450,18 @@
     "position": [
       -1081344,
       655360
+    ]
+  },
+  "A98C5670-494D-C497-9CE0-1D94A32D04EB": {
+    "data": {
+      "seed": 6529
+    },
+    "facing": 1319312791,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      540672,
+      507904
     ]
   },
   "A9A6B823-4DCF-B608-92B2-99AD22EBD08A": {
@@ -10013,6 +12632,18 @@
       -1064960
     ]
   },
+  "ABF6B96B-4C72-164F-89F6-32B1F5643C05": {
+    "data": {
+      "seed": 9020
+    },
+    "facing": 2011197443,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      540672,
+      557056
+    ]
+  },
   "AC128E01-4F71-B32F-782D-62AE93D519DF": {
     "data": {
       "seed": 6006
@@ -10121,6 +12752,18 @@
       -770048
     ]
   },
+  "AD744AFD-4D94-48E3-A5CD-D28F3898F576": {
+    "data": {
+      "seed": 7644
+    },
+    "facing": 1336418198,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      294912,
+      393216
+    ]
+  },
   "AD833848-4152-0AC0-A00A-D59A2E5ACCE4": {
     "data": {
       "seed": 31206
@@ -10131,6 +12774,18 @@
     "position": [
       -704512,
       1671168
+    ]
+  },
+  "ADC9CDC3-4655-5EC1-5336-CB93BAB1B017": {
+    "data": {
+      "seed": 7644
+    },
+    "facing": 262676344,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -196608,
+      -114688
     ]
   },
   "ADD65796-43D2-A29A-336F-76A83A35DB28": {
@@ -10217,6 +12872,18 @@
       -671744
     ]
   },
+  "AEF38AD8-46AC-1698-AD93-D3B08CDD6B78": {
+    "data": {
+      "seed": 21165
+    },
+    "facing": 487537138,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -507904,
+      -507904
+    ]
+  },
   "AEFCFCDC-4006-3271-DA6D-5B8039ADA61D": {
     "data": {
       "seed": 1173
@@ -10254,7 +12921,7 @@
     ]
   },
   "AF3C98D4-4D1A-2F5C-4D9F-83AB47BDDF8B": {
-    "facing": 1879048206,
+    "facing": 0,
     "kind": "MegaResourceA",
     "player": 2,
     "position": [
@@ -10346,6 +13013,18 @@
       -802816
     ]
   },
+  "B0B22542-4CF3-CE1A-EB3E-01A1426F9EB9": {
+    "data": {
+      "seed": 29030
+    },
+    "facing": 1607188367,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -458752,
+      -475136
+    ]
+  },
   "B123078A-413D-BC9E-A883-1FB96BFC69B0": {
     "data": {
       "seed": 7315
@@ -10392,6 +13071,18 @@
     "position": [
       0,
       -1179648
+    ]
+  },
+  "B194091F-4A1E-A4F5-FE96-4EA2570EA850": {
+    "data": {
+      "seed": 13336
+    },
+    "facing": 1986981092,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -1032192,
+      -1064960
     ]
   },
   "B1C7141A-417A-3516-7422-00837B0F769B": {
@@ -10500,6 +13191,18 @@
     "position": [
       1769472,
       -606208
+    ]
+  },
+  "B2A6DCEE-4EFC-09F5-E428-658B7AAC605B": {
+    "data": {
+      "seed": 7644
+    },
+    "facing": 262676344,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -278528,
+      -376832
     ]
   },
   "B2E3AEA3-428A-2940-1CE9-11B56861B683": {
@@ -10671,7 +13374,7 @@
     ]
   },
   "B59CC9A5-43B7-EF9A-4DCF-B7AE15C40F0F": {
-    "facing": 1776145354,
+    "facing": 0,
     "kind": "ResourceB_Generator_2x2",
     "player": 2,
     "position": [
@@ -10751,6 +13454,18 @@
       -573440
     ]
   },
+  "B69BEA78-4E93-4263-E3E1-D1B0E3929425": {
+    "data": {
+      "seed": 575
+    },
+    "facing": 1497969298,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      278528,
+      376832
+    ]
+  },
   "B70DCC52-4063-80C0-4CC6-0C961D73EEF2": {
     "data": {
       "seed": 28380
@@ -10775,6 +13490,18 @@
       -638976
     ]
   },
+  "B73091DF-4809-5E1E-3645-49963C4B6E5A": {
+    "data": {
+      "seed": 120
+    },
+    "facing": 1232147225,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      327680,
+      344064
+    ]
+  },
   "B7DA5FEB-4C01-729C-6E13-E9A9F98E695D": {
     "data": {
       "seed": 21388
@@ -10785,6 +13512,18 @@
     "position": [
       2031616,
       -360448
+    ]
+  },
+  "B7E3E335-453C-74D6-55AC-2095519494CC": {
+    "data": {
+      "seed": 26167
+    },
+    "facing": 2080929793,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      507904,
+      540672
     ]
   },
   "B7E6FB7F-40FC-1503-C382-B29372A38DB5": {
@@ -10871,6 +13610,18 @@
       -540672
     ]
   },
+  "BA3765F3-4F59-AD8C-6643-7B8A328C522F": {
+    "data": {
+      "seed": 18880
+    },
+    "facing": 732485451,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      737280,
+      753664
+    ]
+  },
   "BA76B489-4AD8-7260-4780-B7A7E6ED9C1D": {
     "data": {
       "seed": 20103
@@ -10895,6 +13646,18 @@
       -1507328
     ]
   },
+  "BAB87229-413D-D7C1-7E1A-12A80D5F672F": {
+    "data": {
+      "seed": 19307
+    },
+    "facing": 739071979,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -606208,
+      -589824
+    ]
+  },
   "BACA94DD-4FE7-CA5A-7F50-06B9817CC71E": {
     "data": {
       "seed": 28954
@@ -10905,6 +13668,18 @@
     "position": [
       -1949696,
       409600
+    ]
+  },
+  "BAD0B2D5-44B7-B172-CC33-5C8F88916038": {
+    "data": {
+      "seed": 18614
+    },
+    "facing": 1597030031,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -262144,
+      -393216
     ]
   },
   "BAD5F8C6-4A22-2C47-39E0-F3AC71F0B7AC": {
@@ -10955,6 +13730,18 @@
       -770048
     ]
   },
+  "BBBD7122-463D-FC18-F117-70A0B5616CEC": {
+    "data": {
+      "seed": 23190
+    },
+    "facing": 82938365,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      557056,
+      573440
+    ]
+  },
   "BC0CFA95-4CB8-21CA-B058-7A9F2C67BAED": {
     "data": {
       "seed": 9856
@@ -11001,6 +13788,18 @@
     "position": [
       311296,
       -2015232
+    ]
+  },
+  "BCC1D340-4FCA-594F-22E7-FE81D651A6BE": {
+    "data": {
+      "seed": 7187
+    },
+    "facing": 409874676,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -147456,
+      -163840
     ]
   },
   "BCC30E72-40E7-A981-EB87-999B227A64EA": {
@@ -11075,6 +13874,42 @@
       147456
     ]
   },
+  "BD67E4F3-40FC-F261-D104-7A84D5F364D5": {
+    "data": {
+      "seed": 27240
+    },
+    "facing": 227154681,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -245760,
+      -98304
+    ]
+  },
+  "BDA31AFE-40F7-A54A-9474-6590C53EC14E": {
+    "data": {
+      "seed": 21641
+    },
+    "facing": 387329525,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -720896,
+      -753664
+    ]
+  },
+  "BE10E7D6-4A41-1550-2DA6-EE996B513977": {
+    "data": {
+      "seed": 29591
+    },
+    "facing": 1451666707,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -737280,
+      -737280
+    ]
+  },
   "BE360B94-4C1D-0462-FE60-84B1C2BB843F": {
     "data": {
       "seed": 18413
@@ -11085,6 +13920,18 @@
     "position": [
       557056,
       -1769472
+    ]
+  },
+  "BE4B5BB7-437E-4E97-0ED5-86BD79AFEB22": {
+    "data": {
+      "seed": 1033
+    },
+    "facing": 277094648,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -212992,
+      -147456
     ]
   },
   "BE5F00AD-4731-AF27-A8C2-B28E4EAFCBE9": {
@@ -11135,6 +13982,18 @@
       -1556480
     ]
   },
+  "BEB8D0CC-4875-41B4-671C-42962668D654": {
+    "data": {
+      "seed": 29606
+    },
+    "facing": 339978358,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      983040,
+      1081344
+    ]
+  },
   "BF3DD35E-4F0A-F57C-3ACB-8487034F0F17": {
     "data": {
       "seed": 10342
@@ -11157,6 +14016,15 @@
     "position": [
       -1572864,
       753664
+    ]
+  },
+  "BF63395A-438C-9CBA-5410-0B825565AC8E": {
+    "facing": 0,
+    "kind": "_StormgateObjectiveSubmerged2",
+    "player": 31,
+    "position": [
+      -1245184,
+      -1245184
     ]
   },
   "BF72746C-4BDC-5EA6-E37E-EF801507F3F0": {
@@ -11195,6 +14063,18 @@
       -1622016
     ]
   },
+  "BFE50420-4777-9ECB-BBD9-C099B8462176": {
+    "data": {
+      "seed": 16430
+    },
+    "facing": 219519545,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      606208,
+      606208
+    ]
+  },
   "C0076FC6-4F62-17C5-7919-A0B21AE70DC1": {
     "data": {
       "seed": 16451
@@ -11205,6 +14085,30 @@
     "position": [
       409600,
       -1933312
+    ]
+  },
+  "C0098DC0-4E0B-E234-8BF2-EDB7F7941F8F": {
+    "data": {
+      "seed": 31118
+    },
+    "facing": 1015412975,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      212992,
+      147456
+    ]
+  },
+  "C090CEF9-4E01-8E6A-0C00-5BBF9785312E": {
+    "data": {
+      "seed": 4595
+    },
+    "facing": 1340514262,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -1196032,
+      -1114112
     ]
   },
   "C0F4400D-4D25-9A34-E7A0-1699BC1CC0DB": {
@@ -11219,6 +14123,15 @@
       983040
     ]
   },
+  "C0F5EC75-4511-5929-0DAA-358BB221BFA5": {
+    "facing": 0,
+    "kind": "_StormgateObjectiveSubmerged0",
+    "player": 31,
+    "position": [
+      0,
+      0
+    ]
+  },
   "C12873F8-4623-28DD-38C4-458A7F763CD4": {
     "data": {
       "seed": 9971
@@ -11229,6 +14142,30 @@
     "position": [
       -425984,
       1900544
+    ]
+  },
+  "C1412595-4835-EE84-A940-BEA571A0598F": {
+    "data": {
+      "seed": 23643
+    },
+    "facing": 804282345,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -819200,
+      -720896
+    ]
+  },
+  "C17D661D-446E-D5E0-B93C-A3B0A34DA3C9": {
+    "data": {
+      "seed": 32290
+    },
+    "facing": 1002043220,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      868352,
+      720896
     ]
   },
   "C1A82BD4-4D6A-7146-9121-D6BAC8B9A7B9": {
@@ -11250,6 +14187,18 @@
     "position": [
       -1048576,
       1310720
+    ]
+  },
+  "C1EF6719-4D05-77D5-1D82-C5914E9DCDC9": {
+    "data": {
+      "seed": 27301
+    },
+    "facing": 1071284066,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -262144,
+      -360448
     ]
   },
   "C2304684-40C4-5DAE-C0C5-BF9F4419863B": {
@@ -11274,6 +14223,18 @@
     "position": [
       1081344,
       -655360
+    ]
+  },
+  "C23F71AA-4FE3-8E7A-796D-CD8AB27DCEC8": {
+    "data": {
+      "seed": 122
+    },
+    "facing": 1274648600,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -786432,
+      -737280
     ]
   },
   "C25FBC90-4978-F2C4-111C-C49FF61E114D": {
@@ -11372,6 +14333,30 @@
       -2064384
     ]
   },
+  "C31B9860-4851-5E47-50DF-C797DBF98BE7": {
+    "data": {
+      "seed": 26593
+    },
+    "facing": 395554612,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      1032192,
+      1097728
+    ]
+  },
+  "C34E61BB-458A-1D3A-07A3-6BA09535812C": {
+    "data": {
+      "seed": 13251
+    },
+    "facing": 2042295162,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -229376,
+      -114688
+    ]
+  },
   "C3A004D5-4A96-03F6-1B82-9A956EBD13B9": {
     "data": {
       "seed": 25959
@@ -11396,6 +14381,18 @@
       1851392
     ]
   },
+  "C3B8B434-4561-B412-FF24-FCA00E92EEC6": {
+    "data": {
+      "seed": 3170
+    },
+    "facing": 652332461,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      311296,
+      442368
+    ]
+  },
   "C3B957CF-40F6-C75D-6342-D6A2F6A88054": {
     "data": {
       "seed": 13847
@@ -11406,6 +14403,30 @@
     "position": [
       704512,
       -1638400
+    ]
+  },
+  "C3BBAD8A-4F27-AE98-E014-D1BDEDEDF129": {
+    "data": {
+      "seed": 7318
+    },
+    "facing": 283222456,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      458752,
+      475136
+    ]
+  },
+  "C3BE8306-42A3-9774-F47C-84A5B2F03F84": {
+    "data": {
+      "seed": 20628
+    },
+    "facing": 1315314967,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      1228800,
+      1081344
     ]
   },
   "C4123D83-4FE9-F6C2-1A7D-DAB5037BC5F2": {
@@ -11504,6 +14525,18 @@
       -1622016
     ]
   },
+  "C504C7D9-4EB9-0C73-0C2F-9B9D5DE3BFA9": {
+    "data": {
+      "seed": 18510
+    },
+    "facing": 411349236,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      327680,
+      393216
+    ]
+  },
   "C5173278-4190-42F1-4BD5-CF8B9C0DC28A": {
     "data": {
       "seed": 23554
@@ -11540,6 +14573,18 @@
       1703936
     ]
   },
+  "C596C907-4825-34F1-6509-B8843E701579": {
+    "data": {
+      "seed": 6231
+    },
+    "facing": 1599094415,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      278528,
+      425984
+    ]
+  },
   "C5E97932-4E7C-3D12-AF69-6EBB275F5776": {
     "data": {
       "seed": 28380
@@ -11550,6 +14595,18 @@
     "position": [
       1474560,
       -933888
+    ]
+  },
+  "C5EAD11B-4AE1-6E83-F80C-CE8B15719D5C": {
+    "data": {
+      "seed": 122
+    },
+    "facing": 200906746,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      868352,
+      753664
     ]
   },
   "C5F26359-4A1F-0363-C2CD-EA890C84D142": {
@@ -11588,6 +14645,30 @@
       1916928
     ]
   },
+  "C6F8A653-4AFF-481D-97B8-A4AD85D6572E": {
+    "data": {
+      "seed": 22914
+    },
+    "facing": 494582514,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      999424,
+      1064960
+    ]
+  },
+  "C7498E22-4457-708D-634F-8FB4D6786996": {
+    "data": {
+      "seed": 997
+    },
+    "facing": 1875140487,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      770048,
+      737280
+    ]
+  },
   "C75CC10D-486C-2E19-3C2F-8BA771E6597D": {
     "data": {
       "seed": 3801
@@ -11610,6 +14691,18 @@
     "position": [
       49152,
       1130496
+    ]
+  },
+  "C771DB84-4C50-C415-F1E1-7BB45DE62BD7": {
+    "data": {
+      "seed": 32519
+    },
+    "facing": 1408903188,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      999424,
+      1146880
     ]
   },
   "C7885031-4A09-2209-A110-E9B073D53275": {
@@ -11636,6 +14729,18 @@
       -1867776
     ]
   },
+  "C79ED8F8-4B6D-6A9C-5CC2-D68B0AF953A8": {
+    "data": {
+      "seed": 18020
+    },
+    "facing": 93915901,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -737280,
+      -770048
+    ]
+  },
   "C7A6DBEE-49AC-2E35-CA75-F498510CE4A3": {
     "data": {
       "seed": 29030
@@ -11658,6 +14763,18 @@
     "position": [
       -393216,
       1949696
+    ]
+  },
+  "C7FE3D75-4690-F31D-5D3A-F99F1C137999": {
+    "data": {
+      "seed": 14743
+    },
+    "facing": 1554495824,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -950272,
+      -1081344
     ]
   },
   "C87B1180-4C5C-1514-A1D3-56B5F55CC0DF": {
@@ -11708,6 +14825,18 @@
       737280
     ]
   },
+  "C946225E-4EEA-03B1-1172-88830AE7D855": {
+    "data": {
+      "seed": 31118
+    },
+    "facing": 2089154829,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -180224,
+      -163840
+    ]
+  },
   "C94AFBE3-4B2F-0421-1C30-909477E69F32": {
     "data": {
       "seed": 15271
@@ -11742,6 +14871,18 @@
     "position": [
       -835584,
       1572864
+    ]
+  },
+  "C99EEEB5-41F0-8FA8-5FCC-488F64FFDDA7": {
+    "data": {
+      "seed": 6036
+    },
+    "facing": 341289142,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      1212416,
+      1064960
     ]
   },
   "C9D8AD4C-4A6E-3BAF-45D4-AE8411B4EFFC": {
@@ -11816,6 +14957,18 @@
       -851968
     ]
   },
+  "CB629809-44B5-2AAE-848A-8AB66DC0E6FA": {
+    "data": {
+      "seed": 27564
+    },
+    "facing": 1813829705,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -180224,
+      -98304
+    ]
+  },
   "CB7EB36F-48D9-5212-42F3-EFAB81652207": {
     "data": {
       "seed": 17477
@@ -11861,6 +15014,18 @@
       917504
     ]
   },
+  "CBD1EA5C-4576-2ABF-6809-D78501E39146": {
+    "data": {
+      "seed": 29095
+    },
+    "facing": 1462382227,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      540672,
+      540672
+    ]
+  },
   "CBD31C6B-4F3F-D3D3-7ABA-A48882C78083": {
     "data": {
       "seed": 28981
@@ -11897,6 +15062,18 @@
       638976
     ]
   },
+  "CC1BC3AE-40AB-D1B6-6AF9-7F9DD4ECA302": {
+    "data": {
+      "seed": 11967
+    },
+    "facing": 984118628,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -802816,
+      -655360
+    ]
+  },
   "CC29F424-4001-40BF-69FD-2FBBCE04F87A": {
     "data": {
       "seed": 14278
@@ -11921,6 +15098,18 @@
       -1687552
     ]
   },
+  "CC840B39-4873-1614-C1B5-90AFB09494D3": {
+    "data": {
+      "seed": 15248
+    },
+    "facing": 184325626,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      966656,
+      1097728
+    ]
+  },
   "CCD9C578-4AE7-7158-5984-ABBBD013FC56": {
     "data": {
       "seed": 31206
@@ -11933,6 +15122,18 @@
       884736
     ]
   },
+  "CD252289-466A-D673-BC25-15B476C0ABF9": {
+    "data": {
+      "seed": 23190
+    },
+    "facing": 1156680219,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -589824,
+      -606208
+    ]
+  },
   "CD2CFE55-463E-671C-B715-CBA98571F5DB": {
     "data": {
       "seed": 9158
@@ -11943,6 +15144,18 @@
     "position": [
       950272,
       1359872
+    ]
+  },
+  "CD5EE023-4AA5-C5E9-477D-EC99CC903B8D": {
+    "data": {
+      "seed": 25252
+    },
+    "facing": 1799476873,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -344064,
+      -360448
     ]
   },
   "CD8E42B4-4044-5711-7974-5C9E548D4D06": {
@@ -11979,6 +15192,18 @@
     "position": [
       -1261568,
       475136
+    ]
+  },
+  "CE4EB6F8-4BC2-053F-E763-A5BA076BE2FC": {
+    "data": {
+      "seed": 14871
+    },
+    "facing": 1353261462,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      622592,
+      606208
     ]
   },
   "CE56340B-4431-039A-E9CF-699F6A04BE97": {
@@ -12065,6 +15290,18 @@
       -458752
     ]
   },
+  "CFF29477-4BEA-4DD9-6BA6-26B4662A882B": {
+    "data": {
+      "seed": 5011
+    },
+    "facing": 396242676,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -1064960,
+      -1048576
+    ]
+  },
   "D018A92F-4B18-845C-8862-8D83F59E0C3A": {
     "data": {
       "seed": 17386
@@ -12113,6 +15350,18 @@
       -983040
     ]
   },
+  "D0561966-4E7B-832A-BEF0-E194097F34A8": {
+    "data": {
+      "seed": 18020
+    },
+    "facing": 1167657755,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      884736,
+      737280
+    ]
+  },
   "D082CFB1-4745-0BED-BDED-13931709FD3D": {
     "data": {
       "seed": 15271
@@ -12125,6 +15374,30 @@
       -868352
     ]
   },
+  "D09DE33C-4597-49B2-546C-31A7988CDB35": {
+    "data": {
+      "seed": 30630
+    },
+    "facing": 1814222921,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -819200,
+      -688128
+    ]
+  },
+  "D0B0D7F7-4D0B-F9EC-6BE2-E3AB14D831BD": {
+    "data": {
+      "seed": 13857
+    },
+    "facing": 123342460,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -786432,
+      -720896
+    ]
+  },
   "D0C4A11C-4E7F-0D63-F648-39A614998888": {
     "data": {
       "seed": 15516
@@ -12135,6 +15408,18 @@
     "position": [
       65536,
       -1654784
+    ]
+  },
+  "D0F17728-420E-FED6-D7C8-E2AFC81A32BA": {
+    "data": {
+      "seed": 21091
+    },
+    "facing": 299639671,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -294912,
+      -393216
     ]
   },
   "D1121CE3-4DC8-453A-5CA0-D08B306339BC": {
@@ -12425,6 +15710,18 @@
       -770048
     ]
   },
+  "D51AE6C3-4783-315D-D734-46B58B75C5FE": {
+    "data": {
+      "seed": 23643
+    },
+    "facing": 1878024199,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      835584,
+      704512
+    ]
+  },
   "D52D9D87-43A6-C400-B648-B494B34FE713": {
     "data": {
       "seed": 11977
@@ -12473,6 +15770,42 @@
       -753664
     ]
   },
+  "D57AF05B-434E-4510-E81E-ABA24C17F67C": {
+    "data": {
+      "seed": 17951
+    },
+    "facing": 1682983052,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      491520,
+      458752
+    ]
+  },
+  "D58B7DA6-4113-842C-F000-9990C83A374E": {
+    "data": {
+      "seed": 15511
+    },
+    "facing": 2000612996,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -524288,
+      -540672
+    ]
+  },
+  "D5CA53F3-4C39-20DB-F3E1-8BB15459EA46": {
+    "data": {
+      "seed": 10874
+    },
+    "facing": 1400842004,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      262144,
+      114688
+    ]
+  },
   "D60F8515-4530-C17C-0397-C9BDAFDF2AA7": {
     "data": {
       "seed": 32125
@@ -12486,12 +15819,24 @@
     ]
   },
   "D610AD6E-426C-6F84-8D21-A29704AF4D08": {
-    "facing": 36144190,
+    "facing": 0,
     "kind": "ResourceB_Generator_2x2",
     "player": 2,
     "position": [
       688128,
       1605632
+    ]
+  },
+  "D61856FD-443B-7780-356B-F6BBEAC4BD23": {
+    "data": {
+      "seed": 31753
+    },
+    "facing": 1047788746,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      458752,
+      458752
     ]
   },
   "D63AB225-4BD7-2F02-7A76-A2AAE968045E": {
@@ -12504,6 +15849,30 @@
     "position": [
       -1425408,
       -671744
+    ]
+  },
+  "D64D47A4-4742-F96E-FDE5-D9A48A9E01A0": {
+    "data": {
+      "seed": 17035
+    },
+    "facing": 1479356562,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      491520,
+      491520
+    ]
+  },
+  "D66EB7C8-4827-2AB7-636C-31B62C18254C": {
+    "data": {
+      "seed": 6911
+    },
+    "facing": 941846629,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -1196032,
+      -1097728
     ]
   },
   "D7044D46-4992-EB2B-1BF7-E4BAA0FC5717": {
@@ -12734,6 +16103,18 @@
       -753664
     ]
   },
+  "DABDE36C-49B1-DDB2-B530-0F88B9AF5437": {
+    "data": {
+      "seed": 29591
+    },
+    "facing": 377924853,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      786432,
+      737280
+    ]
+  },
   "DAC79744-4EF4-3BC4-DA53-2DB2682F2C1F": {
     "data": {
       "seed": 14278
@@ -12782,6 +16163,18 @@
       376832
     ]
   },
+  "DB2C1A37-4983-9F47-DBA1-60A3D55C39C6": {
+    "data": {
+      "seed": 13972
+    },
+    "facing": 490093170,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -835584,
+      -704512
+    ]
+  },
   "DB325CA9-4F22-DE1D-2C3B-4E927F096D6E": {
     "data": {
       "seed": 23005
@@ -12795,7 +16188,7 @@
     ]
   },
   "DB58E2D8-45FB-2D65-7476-468B16F04301": {
-    "facing": 1232933657,
+    "facing": 0,
     "kind": "ResourceB_Generator_2x2",
     "player": 0,
     "position": [
@@ -12837,6 +16230,30 @@
     "position": [
       -884736,
       -475136
+    ]
+  },
+  "DC332BB0-4F76-F1E4-9804-5C829EE540FD": {
+    "data": {
+      "seed": 18025
+    },
+    "facing": 1372922773,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      311296,
+      376832
+    ]
+  },
+  "DC6D475F-415E-8154-721A-60A3D0A9DC79": {
+    "data": {
+      "seed": 18020
+    },
+    "facing": 93915901,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -868352,
+      -753664
     ]
   },
   "DC715A91-47A3-CC59-D574-7897FB01862B": {
@@ -12887,6 +16304,18 @@
       475136
     ]
   },
+  "DD8950A5-490D-0F20-5205-18A7548730A4": {
+    "data": {
+      "seed": 25000
+    },
+    "facing": 934047590,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -1032192,
+      -1048576
+    ]
+  },
   "DD8D5016-4114-C89D-C1AD-D1883B3C1AF4": {
     "data": {
       "seed": 1621
@@ -12933,6 +16362,18 @@
     "position": [
       16384,
       -1032192
+    ]
+  },
+  "DE008D68-4DE9-F711-7CF9-ECAA78826850": {
+    "data": {
+      "seed": 10320
+    },
+    "facing": 926314086,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -983040,
+      -1048576
     ]
   },
   "DE054C06-4D79-1CCD-5B80-0F931BE02BCC": {
@@ -12993,6 +16434,18 @@
     "position": [
       -622592,
       1736704
+    ]
+  },
+  "DE42491D-47A3-BFF5-474E-F488F8E35616": {
+    "data": {
+      "seed": 29591
+    },
+    "facing": 1451666707,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -802816,
+      -720896
     ]
   },
   "DF44F94C-4B73-6C17-C8E6-B388B2BF88D6": {
@@ -13115,6 +16568,18 @@
       1032192
     ]
   },
+  "E16C48C8-493F-E758-E503-B29261DA5AC6": {
+    "data": {
+      "seed": 19224
+    },
+    "facing": 260972280,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -524288,
+      -491520
+    ]
+  },
   "E181BBCF-406A-96A2-3CA9-6198D70F7722": {
     "data": {
       "seed": 32583
@@ -13137,6 +16602,30 @@
     "position": [
       -1589248,
       163840
+    ]
+  },
+  "E1C17B49-438F-4F73-4D31-DA92C998D1C6": {
+    "data": {
+      "seed": 28393
+    },
+    "facing": 458503795,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -327680,
+      -425984
+    ]
+  },
+  "E254AD6F-4548-2B40-3154-7DA68A644C22": {
+    "data": {
+      "seed": 19224
+    },
+    "facing": 1334714134,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      557056,
+      524288
     ]
   },
   "E28ACDA2-4615-7FFA-15DB-8ABA11009671": {
@@ -13175,6 +16664,18 @@
       -475136
     ]
   },
+  "E2E31DCF-49FC-65CF-7915-E2A33D861D73": {
+    "data": {
+      "seed": 6231
+    },
+    "facing": 525352561,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -294912,
+      -327680
+    ]
+  },
   "E34FB287-49C3-F9C3-4090-71A929FC1746": {
     "data": {
       "seed": 29297
@@ -13211,6 +16712,18 @@
       -278528
     ]
   },
+  "E37192E7-432C-8869-3C74-31B83D242FD9": {
+    "data": {
+      "seed": 9839
+    },
+    "facing": 1972890420,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -1245184,
+      -1114112
+    ]
+  },
   "E377D6DA-42B0-3772-F2EC-B1A43088AA69": {
     "data": {
       "seed": 2840
@@ -13221,6 +16734,18 @@
     "position": [
       -1982464,
       360448
+    ]
+  },
+  "E3792E82-4CED-7B21-E536-4499F9B3CA05": {
+    "data": {
+      "seed": 7644
+    },
+    "facing": 1336418198,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      212992,
+      98304
     ]
   },
   "E38FB166-45B0-3B3B-E7CD-29A1A6ED22CA": {
@@ -13271,6 +16796,39 @@
       -294912
     ]
   },
+  "E4449F77-4667-81A2-2908-2C90714E5A8D": {
+    "data": {
+      "seed": 1006
+    },
+    "facing": 2087516377,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -589824,
+      -573440
+    ]
+  },
+  "E48E02FE-4F0D-D5B9-A70E-86A5FCE1E922": {
+    "data": {
+      "seed": 8307
+    },
+    "facing": 1705986956,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      442368,
+      442368
+    ]
+  },
+  "E497E41D-443A-DE94-6D5E-D0A9F6E54018": {
+    "facing": 0,
+    "kind": "_StormgateObjective_TugOfWar1",
+    "player": 31,
+    "position": [
+      1245184,
+      1245184
+    ]
+  },
   "E4A04A45-44DB-CD04-5150-1FBD65AB6A26": {
     "data": {
       "seed": 6006
@@ -13317,6 +16875,30 @@
     "position": [
       1949696,
       -393216
+    ]
+  },
+  "E58A1229-4811-23BC-D98A-B5BB52931034": {
+    "data": {
+      "seed": 32519
+    },
+    "facing": 335161334,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -1032192,
+      -1114112
+    ]
+  },
+  "E5CF7618-451B-E7F1-F63A-F784DD768771": {
+    "data": {
+      "seed": 18614
+    },
+    "facing": 1021245859,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      147456,
+      147456
     ]
   },
   "E6043FC1-47C2-304B-E7D3-5DAD4F478597": {
@@ -13380,12 +16962,36 @@
     ]
   },
   "E65BDCB5-4421-1EDF-8A8B-B585A292294A": {
-    "facing": 1879048206,
+    "facing": 0,
     "kind": "MegaResourceA",
     "player": 2,
     "position": [
       -360448,
       -1277952
+    ]
+  },
+  "E660C87A-4E40-A407-0D38-BC98196F0CF3": {
+    "data": {
+      "seed": 30723
+    },
+    "facing": 2049111114,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -245760,
+      -376832
+    ]
+  },
+  "E67728A6-42B6-D2D1-C635-E6BA9D937B42": {
+    "data": {
+      "seed": 28348
+    },
+    "facing": 650300781,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      819200,
+      753664
     ]
   },
   "E6DE078D-4932-C80D-F302-E3AEECED99C1": {
@@ -13401,7 +17007,7 @@
     ]
   },
   "E6FCC897-4468-82BE-2902-20A1018C1116": {
-    "facing": 1764872774,
+    "facing": 0,
     "kind": "ResourceB_Generator_2x2",
     "player": 2,
     "position": [
@@ -13469,6 +17075,18 @@
       -524288
     ]
   },
+  "E7FA1D34-44EB-C82C-DEE3-33B8B6EB1F82": {
+    "data": {
+      "seed": 7947
+    },
+    "facing": 1717423307,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -1212416,
+      -1064960
+    ]
+  },
   "E88FB5B0-4F3A-BBC7-30EB-858A5BD4B619": {
     "data": {
       "seed": 26848
@@ -13527,6 +17145,18 @@
     "position": [
       1507328,
       -540672
+    ]
+  },
+  "E90CD706-4F46-B065-7F9F-FDBA42BD4EC0": {
+    "data": {
+      "seed": 23633
+    },
+    "facing": 1545451600,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -999424,
+      -1146880
     ]
   },
   "E920BB7A-4E26-58E4-6806-50850763F074": {
@@ -13601,6 +17231,30 @@
       1671168
     ]
   },
+  "EA463EA0-483D-E4A7-3FEF-689A5C2FB2F2": {
+    "data": {
+      "seed": 22108
+    },
+    "facing": 2102033025,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      524288,
+      540672
+    ]
+  },
+  "EA52D5D4-475E-7022-C353-FF9E54C31679": {
+    "data": {
+      "seed": 9173
+    },
+    "facing": 2016407651,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -753664,
+      -786432
+    ]
+  },
   "EA86C4F8-49B6-C5F7-6E15-55A63BDAD36E": {
     "data": {
       "seed": 26523
@@ -13647,6 +17301,18 @@
     "position": [
       524288,
       -1818624
+    ]
+  },
+  "EB02A629-4571-A73C-A8EC-7DA1A353D9D3": {
+    "data": {
+      "seed": 11222
+    },
+    "facing": 1288214935,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -802816,
+      -770048
     ]
   },
   "EB320E0B-4DBA-EE3E-E729-74A215197DC9": {
@@ -13697,6 +17363,18 @@
       -1654784
     ]
   },
+  "ECA9A005-4C87-CCC6-6463-D3B12D7D736E": {
+    "data": {
+      "seed": 20628
+    },
+    "facing": 241573113,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -1261568,
+      -1114112
+    ]
+  },
   "ECAB7E6D-4947-118C-5915-5DB8B5AB1C05": {
     "data": {
       "seed": 17700
@@ -13707,6 +17385,18 @@
     "position": [
       -573440,
       1753088
+    ]
+  },
+  "ED1005C8-4696-7A66-78DC-45AEAF742F7B": {
+    "data": {
+      "seed": 14743
+    },
+    "facing": 480753970,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      999424,
+      1032192
     ]
   },
   "ED24B21D-4ECB-4680-9AE8-429FEC67894B": {
@@ -13805,6 +17495,18 @@
       -1769472
     ]
   },
+  "EE3B9501-4DB4-915C-CFE8-46AAE697FFC0": {
+    "data": {
+      "seed": 2310
+    },
+    "facing": 589612591,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      1212416,
+      1097728
+    ]
+  },
   "EEB8A9E8-47AC-3E56-793D-FCA485204C46": {
     "data": {
       "seed": 7960
@@ -13829,6 +17531,18 @@
       442368
     ]
   },
+  "EEF2A793-45CF-A71F-E8A8-7184C04A276B": {
+    "data": {
+      "seed": 13336
+    },
+    "facing": 913239238,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      1048576,
+      1032192
+    ]
+  },
   "EF1E5504-44C2-A5B2-651A-598FA9B6A1D8": {
     "data": {
       "seed": 6132
@@ -13839,6 +17553,42 @@
     "position": [
       1458176,
       -917504
+    ]
+  },
+  "EFC3604E-479C-BCC0-9404-C9AC2E76BCB8": {
+    "data": {
+      "seed": 10854
+    },
+    "facing": 1009514555,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      311296,
+      409600
+    ]
+  },
+  "EFFDF176-4D9E-6E16-4C6C-47834D69794C": {
+    "data": {
+      "seed": 21736
+    },
+    "facing": 1738395467,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -589824,
+      -622592
+    ]
+  },
+  "F01162B3-4789-DAFD-0850-55947643E554": {
+    "data": {
+      "seed": 30400
+    },
+    "facing": 504937521,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      573440,
+      557056
     ]
   },
   "F0416595-4790-F28B-F728-218152F15257": {
@@ -13901,6 +17651,18 @@
       1032192
     ]
   },
+  "F0CB5C17-4AB7-9A74-1A21-48980EEECE21": {
+    "data": {
+      "seed": 29095
+    },
+    "facing": 388640373,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -524288,
+      -524288
+    ]
+  },
   "F0D86302-4168-8D1C-0712-E3B400B5181D": {
     "data": {
       "seed": 22699
@@ -13937,8 +17699,20 @@
       1753088
     ]
   },
+  "F106BD3F-4F77-5CE7-6FCA-239736128686": {
+    "data": {
+      "seed": 575
+    },
+    "facing": 424227444,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -180224,
+      -131072
+    ]
+  },
   "F12CF34B-4536-6A72-DCFC-43B7F3F53127": {
-    "facing": 1879048206,
+    "facing": 0,
     "kind": "MegaResourceA",
     "player": 2,
     "position": [
@@ -14064,6 +17838,30 @@
     "position": [
       851968,
       -1523712
+    ]
+  },
+  "F36B49FD-4B0B-4F01-21BC-91B31A9AA6EA": {
+    "data": {
+      "seed": 122
+    },
+    "facing": 1274648600,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -770048,
+      -704512
+    ]
+  },
+  "F3B67B7D-47BD-938F-68B1-46B8C4DEC1F0": {
+    "data": {
+      "seed": 10854
+    },
+    "facing": 2083256409,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -327680,
+      -376832
     ]
   },
   "F3B7241F-4528-B1FE-9F82-31BDAFD2CB10": {
@@ -14270,6 +18068,18 @@
       -1015808
     ]
   },
+  "F6C4F88E-4165-5FC5-DF42-739E2F2364CC": {
+    "data": {
+      "seed": 134
+    },
+    "facing": 1649722541,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -196608,
+      -147456
+    ]
+  },
   "F70A6958-4560-9EA6-01B8-AC9D1823DE98": {
     "data": {
       "seed": 2070
@@ -14294,6 +18104,18 @@
       1900544
     ]
   },
+  "F7331E99-413F-C7AB-5E44-80B57A4EE658": {
+    "data": {
+      "seed": 10890
+    },
+    "facing": 1558952400,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -999424,
+      -1097728
+    ]
+  },
   "F73F6C26-41AC-C958-3CD8-A79663F2D139": {
     "data": {
       "seed": 19337
@@ -14304,6 +18126,54 @@
     "position": [
       -1785856,
       606208
+    ]
+  },
+  "F746BD84-47D8-E99F-7E05-909C949F0E21": {
+    "data": {
+      "seed": 28385
+    },
+    "facing": 744216747,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      1179648,
+      1097728
+    ]
+  },
+  "F787B06F-4E39-4B90-256C-D983C8E2D9BE": {
+    "data": {
+      "seed": 969
+    },
+    "facing": 1495577170,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -999424,
+      -1114112
+    ]
+  },
+  "F78FAE66-4E98-F810-B26A-409636F97854": {
+    "data": {
+      "seed": 20873
+    },
+    "facing": 937127781,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -491520,
+      -507904
+    ]
+  },
+  "F81D36E7-4D75-1850-1018-2C80250F8DAC": {
+    "data": {
+      "seed": 9020
+    },
+    "facing": 937455589,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -573440,
+      -589824
     ]
   },
   "F84816CB-4379-CF64-4192-CE9D3285E4B9": {
@@ -14331,7 +18201,7 @@
     ]
   },
   "F8A94AB8-4FB3-2DAD-07C0-82860E47BA83": {
-    "facing": 707875948,
+    "facing": 0,
     "kind": "ResourceB_Generator_2x2",
     "player": 2,
     "position": [
@@ -14363,6 +18233,30 @@
       950272
     ]
   },
+  "F9278716-44B7-6F97-2BDF-2CB6D7B1207A": {
+    "data": {
+      "seed": 18652
+    },
+    "facing": 41420030,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -311296,
+      -376832
+    ]
+  },
+  "F976F60D-44EC-B3E9-A2BB-C883945B5BE5": {
+    "data": {
+      "seed": 10072
+    },
+    "facing": 1945561077,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -262144,
+      -114688
+    ]
+  },
   "F9A02635-4705-482B-3DAB-C6AEA969176F": {
     "data": {
       "seed": 26351
@@ -14373,6 +18267,30 @@
     "position": [
       966656,
       1359872
+    ]
+  },
+  "FA219ABA-4472-07B6-3FB8-A5BCDE11C8E6": {
+    "data": {
+      "seed": 30400
+    },
+    "facing": 1578679375,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -557056,
+      -540672
+    ]
+  },
+  "FA2DF029-467F-63DE-9CE9-10A5A3183D46": {
+    "data": {
+      "seed": 15258
+    },
+    "facing": 19006079,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -573440,
+      -573440
     ]
   },
   "FB11CBA7-4127-9ACC-0337-558370FFA7A1": {
@@ -14423,6 +18341,18 @@
       -1114112
     ]
   },
+  "FC3EEC84-4C6C-3E27-B42C-FB901EED008E": {
+    "data": {
+      "seed": 27301
+    },
+    "facing": 2145025920,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      294912,
+      425984
+    ]
+  },
   "FD0543E2-4107-1A95-5603-5F90EB42ABDC": {
     "data": {
       "seed": 28954
@@ -14445,6 +18375,30 @@
     "position": [
       606208,
       -1736704
+    ]
+  },
+  "FD4734D0-4980-E3F9-1154-36B0C034C260": {
+    "data": {
+      "seed": 30317
+    },
+    "facing": 37094526,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      -868352,
+      -720896
+    ]
+  },
+  "FD87782B-4D2A-E330-BC26-3393129FDB33": {
+    "data": {
+      "seed": 1033
+    },
+    "facing": 1350836502,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      245760,
+      131072
     ]
   },
   "FD8C9D81-4D2A-313E-0FA1-02B6D2C559EA": {
@@ -14508,7 +18462,7 @@
     ]
   },
   "FE190802-4A5D-8E11-BCCF-109B7D7E25F0": {
-    "facing": 1879048206,
+    "facing": 0,
     "kind": "MegaResourceA",
     "player": 2,
     "position": [
@@ -14562,6 +18516,18 @@
     "position": [
       2048000,
       -311296
+    ]
+  },
+  "FEC92D1B-449F-AE94-78C6-26BA5D4CDB77": {
+    "data": {
+      "seed": 1443
+    },
+    "facing": 1352933782,
+    "kind": "DestructibleDeadLightTree",
+    "player": 0,
+    "position": [
+      835584,
+      737280
     ]
   },
   "FED93438-464C-8E18-8048-A990316FFEA6": {
@@ -14625,7 +18591,7 @@
     ]
   },
   "FFB083DE-4308-58CB-2852-E5B0729C8A58": {
-    "facing": 1622131018,
+    "facing": 0,
     "kind": "ResourceB_Generator_2x2",
     "player": 2,
     "position": [

@@ -1,0 +1,42 @@
+﻿{
+  "based_on": "DefaultLightingTOD",
+  "id": "TrenchfootLighting",
+  "light_2": {
+    "color": {
+      "blue": 159.0,
+      "green": 190.0,
+      "red": 255.0
+    },
+    "intensity": 1.0,
+    "overrideEnabled": false,
+    "rotation": {
+      "pitch": 310.0,
+      "roll": 0,
+      "yaw": 180.0
+    }
+  },
+  "lighting_preset": "/Script/Engine.BlueprintGeneratedClass'/Game/Pegasus/Art/Lighting/Lights/BP_Lighting_Default_TOD.BP_Lighting_Default_TOD_C'",
+  "skylight": {
+    "color": {
+      "blue": 0,
+      "green": 0.0,
+      "red": 0
+    },
+    "intensity": 10.0,
+    "overrideEnabled": false
+  },
+  "sun": {
+    "color": {
+      "blue": 255.0,
+      "green": 255.0,
+      "red": 255.0
+    },
+    "intensity": 10.0,
+    "overrideEnabled": false,
+    "rotation": {
+      "pitch": 330.0,
+      "roll": 0.0,
+      "yaw": -45.0
+    }
+  }
+}
