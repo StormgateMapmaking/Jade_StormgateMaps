@@ -1,0 +1,19 @@
+﻿{
+  "__base_type": "TerrainTileset",
+  "based_on": "TerrainTileset_ForestAutumn",
+  "cliff_set_a": "DA_Cliffset_Rand_A",
+  "cliff_set_b": "DA_Cliffset_Rand_B",
+  "display_name": "",
+  "doodad_aggregate_layer": "Moss",
+  "id": "TerrainTileset_Feywild",
+  "layer_1": "TerrainLayer_Feywild_Sand",
+  "layer_2": "TerrainLayer_Feywild_Dirt",
+  "layer_5": "TerrainLayer_Feywild_PatchyGrass",
+  "layer_4": "TerrainLayer_Feywild_Grass",
+  "layer_6": "TerrainLayer_Feywild_DarkGrass",
+  "layer_3": "TerrainLayer_Feywild_RockyGround",
+  "layer_7": "TerrainLayer_Feywild_Rock",
+  "layer_8": "TerrainLayer_Feywild_Mud",
+  "render_abyss": true,
+  "water_table": "DA_WaterTable_ForestAutumn"
+}

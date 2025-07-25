@@ -1,0 +1,34 @@
+{
+    "based_on": "BaseCreepCamp",
+    "camp_type": "VisionTower_CreepCampType",
+    "capture_point": "VisionTower_CapturePoint",
+    "creep_level_buffs": [
+        "CreepCampLevel01_Buff",
+        "CreepCampLevel02_Buff",
+        "CreepCampLevel03_Buff",
+        "CreepCampLevel04_Buff",
+        "CreepCampLevel05_Buff"
+    ],
+    "creep_level_starting": 1,
+    "creeps": [
+        "Feywild_Creep_Moth",
+        "Feywild_Creep_Moth",
+        "Feywild_Creep_Moth",
+        "Feywild_Creep_Moth",
+        "Feywild_Creep_Moth"
+    ],
+    "flags": {
+        "creeps_defeatable": false,
+        "dynamic_creeps": false
+    },
+    "fog_visibility": "Visible",
+    "id": "VisionTower_CreepCamp",
+    "leash_patience": 7.0,
+    "leash_radius": 15.0,
+    "leash_radius_slop": 3.0,
+    "placed_name": "",
+    "respawn_time": 300.0,
+    "reward_captureless": "emptyRef",
+    "spawn_time": 0.0,
+    "unreal_actor": "BP_VisionCreepCamp"
+}

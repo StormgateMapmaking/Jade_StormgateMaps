@@ -1,0 +1,399 @@
+{
+  "09DCEAB9-41F8-5FB9-B4D1-02BAAD1F002C": {
+    "facing": 1073741853,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 0,
+    "position": [
+      -1327104,
+      786432
+    ]
+  },
+  "1242C95E-4C29-6781-C276-19A22BD184EF": {
+    "facing": 379106339,
+    "kind": "VisionTower",
+    "player": 0,
+    "position": [
+      571844,
+      -884912
+    ]
+  },
+  "1242C95E-4C29-6781-C276-19A22BD184F0": {
+    "facing": 1989719191,
+    "kind": "VisionTower_CreepCamp",
+    "player": 0,
+    "position": [
+      571844,
+      -884912
+    ]
+  },
+  "14A261C1-4F34-B5EA-4969-358B96544C17": {
+    "facing": 915977337,
+    "kind": "VisionTower_CreepCamp",
+    "player": 0,
+    "position": [
+      -571844,
+      884912
+    ]
+  },
+  "1513EC5E-4FBB-1A61-FEB3-3488BE9F68E3": {
+    "facing": 1073741853,
+    "kind": "locationMarkerPlayerStart",
+    "player": 2,
+    "position": [
+      -1048576,
+      1310720
+    ]
+  },
+  "1861355E-4C6E-2375-941D-BEB03A1EF96E": {
+    "facing": 1073741853,
+    "kind": "Moth",
+    "player": 1,
+    "position": [
+      -626155,
+      867817
+    ]
+  },
+  "1A28037B-4B6D-C1AF-37D0-0A98D3B5459C": {
+    "facing": 1073741853,
+    "kind": "MegaResourceA",
+    "player": 0,
+    "position": [
+      -1015808,
+      737280
+    ]
+  },
+  "1E6C90F9-41F8-8124-973F-55997CFBCD7B": {
+    "facing": 1073741853,
+    "kind": "MegaResourceA",
+    "player": 0,
+    "position": [
+      -835584,
+      229376
+    ]
+  },
+  "26ABC3FE-4F3F-A302-4A11-EA9E138949AB": {
+    "facing": 0,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 0,
+    "position": [
+      -802816,
+      -1572864
+    ]
+  },
+  "2850543B-4C0A-2CEE-B24F-2A89165FB07C": {
+    "facing": 1073741853,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 0,
+    "position": [
+      -901120,
+      540672
+    ]
+  },
+  "2F9795FA-4567-4E98-EA77-A1B26B5B3864": {
+    "facing": 0,
+    "kind": "MegaResourceA",
+    "player": 0,
+    "position": [
+      688128,
+      -1540096
+    ]
+  },
+  "32F2B03D-4ED0-B2FA-EE9E-66856677C359": {
+    "facing": 0,
+    "kind": "MegaResourceA",
+    "player": 0,
+    "position": [
+      -147456,
+      -1097728
+    ]
+  },
+  "3363347E-4881-5515-AD0C-528570D2E660": {
+    "facing": 1073741853,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 0,
+    "position": [
+      -1114112,
+      1458176
+    ]
+  },
+  "33832CB1-4593-46A7-1F59-F28D73F47AED": {
+    "facing": 1073741853,
+    "kind": "MegaResourceA",
+    "player": 0,
+    "position": [
+      819200,
+      1458176
+    ]
+  },
+  "38029A6F-4BED-FADF-B92D-76A21F020AFF": {
+    "facing": 0,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 0,
+    "position": [
+      1327104,
+      -786432
+    ]
+  },
+  "39B4C29F-4B7D-9E5F-1A07-F7B8F4015CB4": {
+    "facing": 0,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 0,
+    "position": [
+      -802816,
+      -1343488
+    ]
+  },
+  "55AC591B-4C4B-56A7-FE7D-508759870988": {
+    "facing": 0,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 0,
+    "position": [
+      -1196032,
+      -704512
+    ]
+  },
+  "5C2A4190-46DE-4637-1A6A-578E36EBC7EC": {
+    "facing": 0,
+    "kind": "MegaResourceA",
+    "player": 0,
+    "position": [
+      -1130496,
+      -819200
+    ]
+  },
+  "67C42266-46A5-9F50-6AE6-89BA0E5C45AB": {
+    "facing": 1073741853,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 0,
+    "position": [
+      1196032,
+      606208
+    ]
+  },
+  "68A0F6AE-4111-E7CA-615F-99B9D3F8DCA1": {
+    "facing": 0,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 0,
+    "position": [
+      180224,
+      -1032192
+    ]
+  },
+  "79F32EF8-4AC6-6DB7-85EB-32B963C20412": {
+    "facing": 0,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 0,
+    "position": [
+      1114112,
+      -1458176
+    ]
+  },
+  "825B76CC-41B0-8604-68C1-6B9C759812ED": {
+    "facing": 1073741853,
+    "kind": "MegaResourceA",
+    "player": 0,
+    "position": [
+      0,
+      1261568
+    ]
+  },
+  "91DE81D4-4C95-15E6-13EA-71A856A76746": {
+    "facing": 0,
+    "kind": "MegaResourceA",
+    "player": 0,
+    "position": [
+      983040,
+      -1458176
+    ]
+  },
+  "9EA92F7E-4C63-02F8-F524-F3BDFBA4EE3F": {
+    "facing": 0,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 0,
+    "position": [
+      573440,
+      -1605632
+    ]
+  },
+  "AA3239F0-4441-670C-A35A-098DA57604E1": {
+    "facing": 1073741853,
+    "kind": "MegaResourceA",
+    "player": 0,
+    "position": [
+      -983040,
+      1458176
+    ]
+  },
+  "AA649AEB-474C-9D9F-2BDD-40AD29B4D144": {
+    "facing": 0,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 0,
+    "position": [
+      -1196032,
+      -606208
+    ]
+  },
+  "AAB415AF-4AB6-7C0B-13BF-07B83D431BA0": {
+    "facing": 1073741853,
+    "kind": "MegaResourceA",
+    "player": 0,
+    "position": [
+      -688128,
+      1540096
+    ]
+  },
+  "AB12526A-4F47-74BE-4E6B-E5863FA990DA": {
+    "facing": 0,
+    "kind": "MegaResourceA",
+    "player": 0,
+    "position": [
+      1015808,
+      -737280
+    ]
+  },
+  "B3258F2D-4C3C-9BF5-95C9-16BB28E22DE2": {
+    "facing": 0,
+    "kind": "MegaResourceA",
+    "player": 0,
+    "position": [
+      -819200,
+      -1458176
+    ]
+  },
+  "B71DA24C-44C2-66C7-CCE3-83B76F695830": {
+    "facing": 0,
+    "kind": "MegaResourceA",
+    "player": 0,
+    "position": [
+      0,
+      -1261568
+    ]
+  },
+  "B8F63ADB-43F5-A1D8-A0A0-E28A8147CCA0": {
+    "facing": 1073741853,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 0,
+    "position": [
+      802816,
+      1572864
+    ]
+  },
+  "BD828F83-4562-7021-AC9F-81B933CD0422": {
+    "facing": 1073741853,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 0,
+    "position": [
+      1196032,
+      704512
+    ]
+  },
+  "C9B0D734-4586-C413-1107-7F8BB29C4135": {
+    "facing": 0,
+    "kind": "locationMarkerPlayerStart",
+    "player": 1,
+    "position": [
+      1048576,
+      -1310720
+    ]
+  },
+  "CA0EB3EC-43D9-359C-7EEC-BDA65A4F03E8": {
+    "facing": 1452848193,
+    "kind": "VisionTower",
+    "player": 0,
+    "position": [
+      -571844,
+      884912
+    ]
+  },
+  "CBF7BEE1-45D8-5237-08E9-AA9649704525": {
+    "facing": 0,
+    "kind": "MegaResourceA",
+    "player": 0,
+    "position": [
+      -1130496,
+      -491520
+    ]
+  },
+  "D1609FE6-4DE1-7525-AF1F-159A6E5A9D00": {
+    "facing": 0,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 0,
+    "position": [
+      901120,
+      -540672
+    ]
+  },
+  "D22512B3-48F7-8ADA-DD23-C1A1C536B23E": {
+    "facing": 1073741853,
+    "kind": "MegaResourceA",
+    "player": 0,
+    "position": [
+      1130496,
+      819200
+    ]
+  },
+  "D780BFBF-44B5-F684-ED1B-289E29C56A96": {
+    "facing": 1464925579,
+    "kind": "Feywild_Cat",
+    "player": 1,
+    "position": [
+      1304921,
+      1773
+    ]
+  },
+  "DE472FA5-48D8-DB30-A346-28A3BACE7AE7": {
+    "facing": 1073741853,
+    "kind": "MegaResourceA",
+    "player": 0,
+    "position": [
+      147456,
+      1097728
+    ]
+  },
+  "E26AEEC1-4FDD-BD59-2AB2-AE8769C7C03D": {
+    "facing": 1073741853,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 0,
+    "position": [
+      802816,
+      1343488
+    ]
+  },
+  "E75B9B3C-4978-B369-2C9E-2D80DB0F6D5C": {
+    "facing": 0,
+    "kind": "MegaResourceA",
+    "player": 0,
+    "position": [
+      868352,
+      -229376
+    ]
+  },
+  "E8671A78-46CC-C98E-7BBC-5684C1415047": {
+    "facing": 1073741853,
+    "kind": "MegaResourceA",
+    "player": 0,
+    "position": [
+      1130496,
+      491520
+    ]
+  },
+  "F14E3A49-443D-F886-2157-CCABEAD84937": {
+    "facing": 1073741853,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 0,
+    "position": [
+      -573440,
+      1605632
+    ]
+  },
+  "F57596B2-452C-F1C7-E603-38A4C24F49F8": {
+    "facing": 1073741853,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 0,
+    "position": [
+      -180224,
+      1032192
+    ]
+  },
+  "version": 1
+}
