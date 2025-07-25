@@ -1,4 +1,5 @@
 {
+    "__base_type": "UnitData",
     "abilityList": [
         "attackData",
         "moveData",
@@ -88,7 +89,10 @@
     "construction_set_sfx": "OnConstructionSet",
     "damage_response": "Only_Acquire",
     "default_acquire_level": "Offensive",
-    "default_control_groups": [],
+    "default_control_groups": [
+        1,
+        2
+    ],
     "effects": {
         "birth": "emptyRef",
         "constructed": "emptyRef",
@@ -215,9 +219,9 @@
         "heightplane_ground",
         "attribute_biological"
     ],
-    "subgroup_priority": 100,
+    "subgroup_priority": 121,
     "supply_add": 0.0,
-    "supply_cost": 1.0,
+    "supply_cost": 0.5,
     "targeting_participation_alias": [],
     "traits": [],
     "turret_list": [],
@@ -231,7 +235,7 @@
     "unreal_actor": "BP_Critter_Moth",
     "unreal_corpse_actor": "Proxy_BP_PersistentCorpse_Default",
     "veterancy_data": "BaseVeterancyData",
-    "veterancy_given_on_death": 0,
+    "veterancy_given_on_death": 200,
     "veterancy_starting_tier": 0,
     "veterancy_tiers": [],
     "veterancy_vxp_weight": 0,
@@ -245,7 +249,7 @@
     },
     "vital_health": {
         "maximum": 65.0,
-        "regen": 0.0,
+        "regen": 1.0,
         "starting": 65.0
     },
     "vital_out_shroud_deduction_energy_flat": 0.0,
