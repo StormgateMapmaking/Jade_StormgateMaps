@@ -1,1 +1,17 @@
-﻿{}
+﻿{
+  "map": {
+    "_DestructibleOvergrownTree0": {
+      "based_on": "DestructibleOvergrownTree",
+      "footprint": {
+        "angled": false,
+        "clumpable": false,
+        "snap": false,
+        "unbuildable": false,
+        "vision_block_height": 2,
+        "x": 1.5,
+        "y": 1.5
+      },
+      "id": "_DestructibleOvergrownTree0"
+    }
+  }
+}
