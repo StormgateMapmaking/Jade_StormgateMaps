@@ -8,12 +8,12 @@
   "id": "TerrainTileset_Feywild",
   "layer_1": "TerrainLayer_Feywild_Sand",
   "layer_2": "TerrainLayer_Feywild_Dirt",
-  "layer_3": "TerrainLayer_Feywild_RockyGround",
+  "layer_3": "TerrainLayer_Feywild_TilesRuined",
   "layer_4": "TerrainLayer_Feywild_Grass",
   "layer_5": "TerrainLayer_Feywild_PatchyGrass",
   "layer_6": "TerrainLayer_Feywild_DarkGrass",
   "layer_7": "TerrainLayer_Feywild_Rock",
-  "layer_8": "TerrainLayer_Feywild_Mud",
+  "layer_8": "TerrainLayer_Feywild_Tiles",
   "render_abyss": true,
   "water_table": "DA_WaterTable_ForestAutumn"
 }
